@@ -1,0 +1,1752 @@
+[
+  {
+    "instruction": "Formater den gitte teksten til en velstrukturert forskningsartikkel i APA-stil.",
+    "input": "Temaet for denne forskningsartikkelen er hvordan sosiale medier påvirker mental helse.",
+    "output": "Abstract\n\nThis study investigates the impact of social media on mental health. The research design is quantitative and uses a survey to collect data from participants. The sample consists of 500 adults aged between 18 and 65 years old who use social media regularly. The results show that there is a significant correlation between social media usage and mental health issues such as anxiety, depression, and loneliness. The study also found that the type of social media platform used and the frequency of usage can affect mental health outcomes differently. The findings suggest that social media platforms should be designed with mental health in mind to reduce negative effects on users' well-being.\n\nKeywords: Social media, mental health, anxiety, depression, loneliness\n\nIntroduction\n\nSocial media has become an integral part of modern society, with billions of people worldwide using various platforms to connect with others, share information, and express themselves. While social media has many benefits, including facilitating communication and providing access to information, it has also been linked to negative outcomes such as addiction, cyberbullying, and mental health problems (Kuss & Griffiths, 2017). This study aims to investigate the relationship between social media usage and mental health outcomes, specifically anxiety, depression, and loneliness.\n\nLiterature Review\n\nThe literature"
+  },
+  {
+    "instruction": "Gitt en dialog, identifiser om brukeren er forvirret eller ikke.",
+    "input": "- Agent: Du kan bruke denne koden for å innløse billettene\n- Kunde: Hvilken kode?",
+    "output": "Agent: Du kan bruke denne koden for å innløse billettene."
+  },
+  {
+    "instruction": "Forkort denne setningen uten å miste dens opprinnelige betydning.",
+    "input": "Every day I am tasked with the responsibility of completing my assignments on time.",
+    "output": "I have to finish my tasks daily."
+  },
+  {
+    "instruction": "Les følgende artikkel og kom opp med to diskusjonsspørsmål.",
+    "input": "I dagens samfunn har bruken av teknologi blant barn økt dramatisk de siste tiårene. Denne økte bruken har ført til både positive og negative utfall, og mange foreldre lurer på hvordan de skal navigere barnas bruk av enheter.",
+    "output": "Diskusjonsspørsmål 1: Hvordan kan foreldre hjelpe barna sine å utvikle en balansert forhold til teknologi?\n\nDiskusjonsspørsmål 2: Hva er noen potensielle negative konsekvenser av barnas høy bruk av teknologi, og hvordan kan disse konsekvensene bli minsket?"
+  },
+  {
+    "instruction": "Navngi hovedstedene til følgende tre land",
+    "input": "India, Canada, Egypt",
+    "output": "Hovedstedene til følgende tre land:\n\nIndia: New Delhi\nCanada: Ottawa\nEgypt: Cairo"
+  },
+  {
+    "instruction": "Rediger setningen nedenfor for å gjøre den mer direkte og klar i tonen.",
+    "input": "Jeg lurte på om du kanskje kunne hjelpe meg med dette.",
+    "output": "Kan du hjelpe meg med dette?"
+  },
+  {
+    "instruction": "Generer 5 spørsmål og de tilsvarende svarene basert på den gitte teksten.",
+    "input": "Florence er en by i den italienske regionen Toscana. Det er hovedstaden i regionen og den mest folkerike byen i regionen. Florence regnes som en av de vakreste byene i verden.",
+    "output": "1. Hva er Florence?\nSvar: Florence er en by i den italienske regionen Toscana.\n\n2. Hva er Florence kjent for?\nSvar: Florence regnes som en av de vakreste byene i verden.\n\n3. Hva er Florences status i regionen?\nSvar: Det er hovedstaden i regionen og den mest folkerike byen i regionen.\n\n4. Hvor mange mennesker lever i Florence?\nSvar: Det er ikke gitt informasjon om antall innbyggere i Florence i teksten.\n\n5. Hva gjør Florence kjent for?\nSvar: Florence er kjent for sin vondhet og historie, samt sin kunst og arkitektur."
+  },
+  {
+    "instruction": "Forsk om en gitt historisk hendelse og forklar hva som skjedde i en fem-avsnitts-essay.",
+    "input": "Historisk hendelse: Cubakrisen",
+    "output": "Cubakrisen var en krisis mellom USA og Sovjetunionen som foregikk i 1962. Den oppsto da Sovjetunionen innførte raketmissiler i Cuba, en liten øy i det sydøstlige Havet av Mexiko. USA oppdaget dette og sa at det var en bedre måte å begynne en krig på enn å la Sovjetunionen ha raketmissiler så tett til USA.\n\nAvsnitt 1: Oppstarten av krisen\n\nI 1962 begynte Sovjetunionen å sende raketmissiler til Cuba. USA oppdaget dette og sa at det var en bedre måte å begynne en krig på enn å la Sovjetunionen ha raketmissiler så tett til USA. USA begynte å samle sin flott i Havet av Mexiko og sa at de ville begynne en krig med Sovjetunionen hvis de ikke stoppet med å sende raketmissiler til Cuba.\n\nAvsnitt 2: Utenlydende press\n\nUSA og Sovjetunionen begynte"
+  },
+  {
+    "instruction": "Kombiner innholdet i disse to listene uten å gjenta elementer: [\"dog\", \"cat\", \"bird\"] og [\"hamster\", \"rabbit\", \"horse\"]",
+    "input": "[\"dog\", \"cat\", \"bird\"], [\"hamster\", \"rabbit\", \"horse\"]",
+    "output": "[\"dog\", \"cat\", \"bird\", \"hamster\", \"rabbit\", \"horse\"]"
+  },
+  {
+    "instruction": "Konstruer et logisk argument fra de gitte premissene.",
+    "input": "Premiss 1: Alle hunder bjeffer\nPremiss 2: Rover er en hund",
+    "output": "Konklusjon: Rover bjeffer."
+  },
+  {
+    "instruction": "Navngi temaet bak sangen.",
+    "input": "Sang: \"Respect\" av Aretha Franklin.",
+    "output": "Temaer bak sangen \"Respect\" av Aretha Franklin kan være:\n\n1. Respekt for andre og selv\n2. Styrke og trofasthed\n3. Kjærlighet og oppfølging\n4. Selvbevissthet og selvtrygghet\n5. Motivering og inspirasjon\n6. Kritikk og kritisk tenkning\n7. Selvrefleksjon og selvutvikling\n8. Selvverdighet og self-esteem\n9. Kjærlighetsprinsipper og kjærlighetsregler\n10. Selvforståelse og selvinspirasjon."
+  },
+  {
+    "instruction": "Kategoriser de følgende tre ordene.",
+    "input": "Happiness, Energy, Rainbow",
+    "output": "Happiness: Positive emotion, feeling of contentment and satisfaction.\nEnergy: Vitality, strength, and enthusiasm for life.\nRainbow: A natural phenomenon consisting of a spectrum of colors that appear in the sky after rain."
+  },
+  {
+    "instruction": "Omformulér setningene uten å endre betydningen av følgende setning.",
+    "input": "Det var tydelig at noe var galt.",
+    "output": "Det var klart at noe var feil."
+  },
+  {
+    "instruction": "Søk gjennom inputen etter skrivefeil og rett dem opp.",
+    "input": "Richard recieved a mmedal for his incredible performace.",
+    "output": "Richard received a medal for his incredible performance."
+  },
+  {
+    "instruction": "Omskriv setningen til en spørrende setning.",
+    "input": "The children were swimming in the pool.",
+    "output": "Were the children swimming in the pool?"
+  },
+  {
+    "instruction": "Oppgi temaet i romanen.",
+    "input": "The Catcher in the Rye",
+    "output": "1. Holden Caulfield: The protagonist of the novel and a troubled teenager who struggles with his identity and place in society.\n2. Phoebe Caulfield: Holden's younger sister who represents innocence and purity.\n3. Allie Caulfield: Holden's deceased brother who serves as a symbol of childhood innocence and loss.\n4. Mr. Antolini: A former teacher of Holden's who offers guidance and wisdom.\n5. Mr. Spencer: Holden's English teacher who represents the adult world and its hypocrisy.\n6. Sally Hayes: Holden's crush who represents the superficiality of relationships.\n7. Carl Luce: Holden's rival who represents the competitive nature of adolescence.\n8. Stradlater: Holden's roommate who represents the superficiality of friendships.\n9. Jane Gallagher: Holden's childhood friend who represents the innocence of childhood.\n10. The Catcher in the Rye: The metaphorical figure who represents Holden's desire to protect children from the harshness of adulthood."
+  },
+  {
+    "instruction": "Lag en haiku-dikt med det gitte temaet.",
+    "input": "Skjønnheten i nattens himmel",
+    "output": "Stjernene blinker,\nMånen glimtende,\nNattens himmel skjønn."
+  },
+  {
+    "instruction": "Legg til følgende setning for å gjøre påstanden sann",
+    "input": "She painted the door",
+    "output": "She painted the door red."
+  },
+  {
+    "instruction": "Identifiser setningsstrukturen i følgende setning og gi en forklaring.",
+    "input": "Mine venner og jeg dro til parken i dag.",
+    "output": "Setningsstrukturen i denne setningen er enkelsettssetning. Den består av to delsetninger som er forbundet med hjelpverbet \"og\". \n\nDelsett 1: \"Mine venner dro til parken\"\nDelsett 2: \"Jeg dro til parken\"\nForklaring: Setningen består av to delsetninger som er forbundet med hjelpverbet \"og\". Delsett 1 beskriver hvem som dro til parken (mine venner), mens delsett 2 beskriver hvem som dro til parken (jeg)."
+  },
+  {
+    "instruction": "Gitt fakta, lag en etterlysningsplakat",
+    "input": "Fakta: \n- PersonX er etterlyst for forbrytelsen ran. \n- PersonX er en mann, 5'6\" høy, med brune øyne og svart hår. \n- Han antas å være et sted i byen Los Angeles.",
+    "output": "Etterlysningsplakat:\n\nFakta: \n- PersonX er etterlyst for forbrytelsen ran. \n- PersonX er en mann, 5'6\" høy, med brune øyne og svart hår. \n- Han antas å være et sted i byen Los Angeles.\n\nBeklager vi at vi ikke kan skrive ut eller lage et etterlysningsplakat. Vi anbefaler at du kontakt lokale myndigheter eller polisene for hjelp med å lage et etterlysningsplakat."
+  },
+  {
+    "instruction": "Skriv en regex-uttrykk for å få alle navn som starter med A i følgende liste.",
+    "input": "Adam, Joe, Anna, Matthew, Abigail",
+    "output": "/A[a-zA-Z]*\\b/"
+  },
+  {
+    "instruction": "Generer en sammendrag på 100 ord av følgende artikkel som beskriver dens hovedpåstander og anvendelser.",
+    "input": "Denne artikkelen presenterer en dyp forsterkende læring algoritme for å lære å spille et dataspill \"Doom\". Den foreslåtte algoritmen er en nyimplementering av dyp deterministisk policy gradient med en kontinuerlig handlingsrom, som er avhengig av konvolusjonelle nevrale nettverk (CNN) for å kartlegge rammer av spillet til forventet handling. Eksperimentene som ble utført med to varianter av Doom-spillet viste at den foreslåtte algoritmen overgår baseline-løsningen når det gjelder nøyaktighet, og demonstrerer overlegen ytelse med dypere CNN-er.\n\nDenne forskningen demonstrerer gjennomførbarheten av dyp forsterkende læring for spill AI. Med hjelp av dyp læringsteknikker, er modellen vår i stand til å forstå abstrakte konsepter og utføre komplekse navigasjonsoppgaver, og sikrer høy nøyaktighet sammenlignet med den tradisjonelle tilnærmingen. Utforsking av ytelsen til andre dyp forsterkende læring algoritmer på Doom-spill kan ytterligere forbedre den generelle nøyaktigheten.\n\nAnvendelsene av den foreslåtte tilnærmingen kan utvides utover spill AI til robotnavigasjon og kontrolloppgaver, bildebehandling og beslutningstaking. Ved å omfavne mer komplekse forsterkende læringsteknikker, som imitasjonslæring, hierarkisk læring og meta-læring, kan den foreslåtte metoden brukes i ulike AI-drevne oppgaver, inkludert robotikk og helsevesen, kamp og autonom kjøring.",
+    "output": "Denne artikkelen presenterer en dyp forsterkende læring algoritme for å lære å spille et dataspill \"Doom\". Algoritmen er basert på dyp deterministisk policy gradient med en kontinuerlig handlingsrom, og bruker konvolusjonelle nevrale nettverk (CNN) for å kartlegge rammer av spillet til forventet handling. Eksperimentene viste at den foreslåtte algoritmen overgår baseline-løsningen og demonstrerer overlegen ytelse med dypere CNN-er. Anvendelsene av den foreslåtte tilnærmingen kan utvides til robotnavigasjon, bildebehandling og beslutningstaking."
+  },
+  {
+    "instruction": "Hvordan ville du brukt dette bildet i en markedsføringskampanje?",
+    "input": "<bilde inkludert i e-post>",
+    "output": "Vi ville brukt dette bildet i en markedsføringskampanje som en visuell representasjon av vores produkt eller tjeneste. Vi ville bruke bildet i e-postene våre for å vise kundene hvordan produktet ser ut og hvordan det kan hjelpe dem med deres problemer. Vi ville også bruke bildet på våre sosiale medier for å vise kundene hvordan produktet fungerer og hvordan de kan bruke det i deres daglige liv."
+  },
+  {
+    "instruction": "Skriv en anmeldelse for en bok du leste forrige måned.",
+    "input": "Jeg leste nylig \"The Hunger Games\" av Suzanne Collins.",
+    "output": "Jeg måtte ikke lade være med at fortælle om min fantastiske oplevelse med denne bok. \"The Hunger Games\" er en udsøgt og spændende bogserie, som jeg absolut anbefaler alle til at læse.\n\nBogen handler om en ung kvinde, Katniss Everdeen, der bliver sat i en udsættelse sammen med andre unge mennesker fra hvert af de 12 distrikter i Panem, et land i ruiner efter en katastrofe. De er sat i en voldelig konkurrence, hvor de skal overleve mod andre deltagerne, mens de bliver observeret af en række tv-producenter.\n\nDet er en bok, som vil få dig til at holde adskillige natten op, da den er så spændende og intressant. Det er en bogserie, som vil få dig til at føle en stærk forbundet til de karakterer, og du vil være helt engageret i deres historier.\n\nSelvom bogen handler om vold og konkurrence, er den også en bogserie, som vil give dig en masse inspiration og motivation. Det"
+  },
+  {
+    "instruction": "Erstatt <mask> i følgende setning med det mest passende synonymer.",
+    "input": "Hesten vrinsket i <mask>.",
+    "output": "Hesten skrek i høyt."
+  },
+  {
+    "instruction": "Merk opp entitetene i setningen.",
+    "input": "Bill Gates er grunnleggeren av Microsoft.",
+    "output": "Entiteter i setningen: Bill Gates, Microsoft."
+  },
+  {
+    "instruction": "Utfør tekstsummering på den gitte teksten.\nGi ut den forkortede versjonen i én setning.",
+    "input": "Været i San Francisco i dag er solrikt og varmt. Temperaturen er 68°F og himmelen er for det meste klar med noen lette, fluffy skyer.",
+    "output": "San Francisco har solrikt og varmt været i dag med temperaturen på 68°F og himmelen er for det meste klar med noen lette, fluffy skyer."
+  },
+  {
+    "instruction": "Parafraser følgende setning ved å bruke et annet ordforråd.",
+    "input": "Setning: Undervisning er en givende yrke.",
+    "output": "Paraphrase: The teaching profession is one that provides great satisfaction."
+  },
+  {
+    "instruction": "Skriv en anmeldelse av Spirit II E-210 Gassgrill.",
+    "input": "Navn: Spirit II E-210 Gassgrill\nRustfrie stålbrennere: 2\nDimensjoner - Lokket lukket (tommer): 44,5\"H x 48\"B x 27\"D\nDimensjoner - Lokket åpent (tommer): 57\"H x 48\"B x 26\"D\nSidebord: 2",
+    "output": "I would like to provide an in-depth review of the Spirit II E-210 Gassgrill. This grill is made of rust-free stainless steel and has two burners that can be adjusted for even cooking. The grill measures 44.5 inches tall when closed and 57 inches tall when open, with a width of 48 inches and a depth of 27 inches when closed and 26 inches when open. It also features two side boards for added stability and storage.\n\nThe Spirit II E-210 Gassgrill is a high-quality grill that offers excellent performance and durability. The stainless steel construction ensures that the grill will last for years to come, and the adjustable burners allow for precise temperature control. The grill's dimensions make it suitable for both indoor and outdoor use, and the side boards provide additional support and storage space.\n\nOverall, I highly recommend the Spirit II E-210 Gassgrill for anyone looking for a reliable and versatile grill. Its impressive features and durable construction make it a great investment for any home cook or outdoor enthusiast."
+  },
+  {
+    "instruction": "Gjør om en gitt tekst til dine egne ord.",
+    "input": "Organisasjoner har brukt mange innovative teknologier for å holde seg foran i konkurransen.",
+    "output": "Firmaer har brukt mange moderne teknologier for å være på toppen i konkurransen."
+  },
+  {
+    "instruction": "Gitt en setning, foreslå en annen ordrekkefølge som endrer betydningen eller vektleggingen av setningen.",
+    "input": "Penger kan kjøpe lykke.",
+    "output": "Lykke kan kjøpe penger."
+  },
+  {
+    "instruction": "Justere oppskriften",
+    "input": "2 ss smør\n2 kopper vann\n2 ss mel",
+    "output": "Oppskriften:\n\n1. Varm vannet i en pot.\n2. Legg inn smøret og la det smelt.\n3. Når smøret er fullt smeltet, legg inn melen og blender det godt med vannet.\n4. La oppskriften koke litt, men ikke for lang tid.\n5. Når oppskriften har blitt til en smertetekst, er den klar til å serveres.\n\nHusk å legge oppskriften på varme før du serverer den. Du kan også legge til andre ingredienser som du liker, som frukt eller nøkler, for å gjøre den litt mer spesiell."
+  },
+  {
+    "instruction": "Samle relevant informasjon fra den gitte setningen.",
+    "input": "Jeg så et vakkert maleri i en antikvitetsbutikk.",
+    "output": "En vakkert maleri."
+  },
+  {
+    "instruction": "Forklar konseptet 'X' på 5 setninger.",
+    "input": "X: The Big Bang Theory",
+    "output": "The Big Bang Theory is the scientific explanation for the origin of the universe. It suggests that around 13.8 billion years ago, all matter in the universe was compressed into an extremely small and dense point. This point then exploded, creating the universe as we know it today. The theory is supported by evidence such as the cosmic microwave background radiation and the observed expansion of the universe. While there are still many unanswered questions about the Big Bang, it remains the most widely accepted explanation for the origins of our universe."
+  },
+  {
+    "instruction": "Omskriv setningen ved å bruke andre person entall.",
+    "input": "The renter will be responsible for following up with the landlord if a repair is necessary.",
+    "output": "You will be responsible for contacting the landlord to arrange for repairs if they are needed."
+  },
+  {
+    "instruction": "Klassifiser ordet som \"dyr\" eller \"ikke-dyr\".",
+    "input": "Elefant",
+    "output": "Dyr"
+  },
+  {
+    "instruction": "Lag en plan i 3 trinn som kan hjelpe meg å takle dette problemet.",
+    "input": "Jeg klarer ikke å håndtere tiden min effektivt.",
+    "output": "1. Identifiser hvilke aktiviteter og oppgaver jeg brukes mest tid på: Jeg skal først identifisere hvilke aktiviteter og oppgaver jeg brukes mest tid på hver dag. Dette kan gjøres ved å skrive ned alle de tingene jeg gjør hver dag og kategorisere dem etter tidbruk.\n\n2. Analyser hvilke aktiviteter og oppgaver som er viktige og hvilke som kan bli avskaffet eller forsinket: Når jeg har identifisert hvilke aktiviteter og oppgaver jeg brukes mest tid på, må jeg analysere hvilke av disse som er viktig for å nå min målsetting og hvilke som kan bli avskaffet eller forsinket uten å påvirke min målsetting negativt. Dette kan gjøres ved å priorisere oppgavene basert på deres viktighet og urgente nivå.\n\n3. Oppfylle min målsetting ved å organisere og priorisere mine oppgaver: Når jeg har analysert hvilke oppgaver som er v"
+  },
+  {
+    "instruction": "Hvilken type visuell skal brukes for den gitte analysen?",
+    "input": "Analyserer trendene i kundenes tilbakemeldinger",
+    "output": "For at analyse trendene i kundenes tilbakemeldinger kan det være nyttig å bruke en bar chart eller en linjediagram. Disse visualiseringsteknikkene kan hjelpe med å vise hvordan de ulike trendene har utviklet seg over tid og sammenlignes med hverandre. Det kan også være nyttig å bruke en word cloud eller en bubble chart for å vise de mest hyppige ordene eller temaene i kundenes tilbakemeldinger."
+  },
+  {
+    "instruction": "Oversett den gitte setningen til norsk bokmål.",
+    "input": "I am looking for the right book",
+    "output": "Jeg søker etter den rette boken."
+  },
+  {
+    "instruction": "Ta følgende setning og omskriv den slik at den inneholder et eksempel på alliterasjon.",
+    "input": "She sang a song.",
+    "output": "She serenaded the stars with sweet sounds."
+  },
+  {
+    "instruction": "Generer et argument for hvorfor selskapet ikke bør implementere den foreslåtte politikken.",
+    "input": "Foreslått politikk: Ansatte må ta minst to uker med årlig ferie hvert år.",
+    "output": "Argument for hvorfor selskapet ikke bør implementere den foreslåtte politikken:\n\n1. Økonomisk påvirkning: Selskapet kan miste konkurransedyktighet og konkurrere mot konkurrenter som ikke har en sådan politikk. Dette kan resultere i tab av virksomhet og økte kostnader.\n\n2. Mangel på flexibilitet: Selskapsledelse kan ikke kontrollere eller planlegge arbeidsprosesser basert på ferieperioder. Det kan resultere i uforutsette og ubehandlet arbeidsprosesser.\n\n3. Mangel på produktivitet: Ansatte som tar ferie hvert år kan ikke være til stede og bidra til selskapsaktiviteter. Dette kan resultere i mindre produktivitet og mindre effektivitet.\n\n4. Mangel på anerkjennelse: Ansatte som er til stede og bidrar til selskapsaktiviteter kan føle seg underkjent og uopgitt. Dette kan resultere i nedgang i motivation og jobbs"
+  },
+  {
+    "instruction": "Veuillez traduire le passage suivant en norvégien bokmål",
+    "input": "How are you?",
+    "output": "Hva er du?"
+  },
+  {
+    "instruction": "Generer et spørsmål som kan brukes i en undersøkelse om det gitte emnet.",
+    "input": "E-handel",
+    "output": "1. Hva er din syn på e-handel og hvordan har den påvirket din kjøpssjekk?\n2. Har du kjøpt noe på internett i de siste 6 månedene? Hvis ja, hva har du kjøpt og hvorfra?\n3. Hva er de mest viktige faktorene for deg når du sammenligner ulike e-handelsbutikker?\n4. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handelsbutikker?\n5. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handelsbutikker?\n6. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handelsbutikker?\n7. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handelsbutikker?\n8. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handelsbutikker?\n9. Hva er de mest viktigere faktorer for deg når du sammenligner ulike e-handels"
+  },
+  {
+    "instruction": "Identifiser konteksten i denne samtalen",
+    "input": "A: Hva må vi gjøre før vi kan gå videre til neste steg?\nB: Vi må få godkjenning fra styret.",
+    "output": "Konteksten i denne samtalen er om en spesifikke prosess eller prosedyre som må følges før en bestemt handling kan utføres."
+  },
+  {
+    "instruction": "Konstruer en spørring for å få de nyeste anmeldelsene av den gitte restauranten.",
+    "input": "Restaurantnavn: \"The Pancake House\"",
+    "output": "Spørring: SELECT * FROM reviews WHERE restaurant_name = 'The Pancake House' ORDER BY review_date DESC LIMIT 1;"
+  },
+  {
+    "instruction": "Skriv en artikkel om de nye funksjonene i en telefon.",
+    "input": "Telefon: iPhone 11",
+    "output": "Apple har vist seg som en av de mest innovativerne i teknologi-sektoren, og det er ingen undring at de har utviklet en rekke nyttige funksjoner i sin nyste telefonmodell, iPhone 11. I denne artikkelen vil vi se på noen av de mest notertene funksjonene i iPhone 11.\n\n1. Super Retina XDR Display: iPhone 11 har en Super Retina XDR Display som gir en dyptere og mer naturlig fargefremstilling enn tidligere modeller. Denne displayen er også mer energieeffektiv, noe som gir en langare batteri-tilhengevirksomhet.\n\n2. A13 Bionic Chipset: iPhone 11 er bevegelig med A13 Bionic Chipset, som er den mest effektive og potensielle procesoren i telefonhistorien. Denne prosessenheten gir iPhone 11 en snellere og mer effektiv prestande enn noen andre telefoner på markedet.\n\n3. Night Mode: En av de mest populære funksjonene i iPhone 11 er"
+  },
+  {
+    "instruction": "Opprett en oversikt over artikkelen din basert på følgende beskrivelse.",
+    "input": "Denne artikkelen vil fokusere på betydningen av sosiale medier i moderne markedsføring.",
+    "output": "Oversikt:\n\n1. Introduksjon: Artikkel om betydningen av sosiale medier i moderne markedsføring.\n2. Historisk bakgrunn: En kort historisk bakgrunn til sosial medie og hvordan det har utviklet seg.\n3. Definisjon: En definisjon av sosial medie og hvordan det er relevante for moderne markedsføring.\n4. Vantagene: En liste over de viktigste vantagene med sosial medie i markedsføring.\n5. Eksempler: Eksisterende eksempler på hvordan sosial medie har blitt brukt i markedsføring.\n6. Utfordringer: En analyse av de mest vanlige utfordringer som kan oppstå ved bruk av sosial medie i markedsføring.\n7. Fremtidens perspektiv: En konklusjon om fremtidens potensielle utvikling av sosial medie i markedsføring."
+  },
+  {
+    "instruction": "Skriv den siste linjen i historien.",
+    "input": "Hun så opp på himmelen, stjernene skinte klart",
+    "output": "Og hun følte seg en del av det uendelige."
+  },
+  {
+    "instruction": "Transkriber følgende setning for meg.",
+    "input": "The apple does not fall far from the tree.",
+    "output": "Denne appelen faller ikke langt fra træet."
+  },
+  {
+    "instruction": "Uunngåelig er noen varer utsolgt på grunn av ulike omstendigheter. Skriv om setningen for å gjøre den mer overbevisende.",
+    "input": "Dessverre er noen produkter utilgjengelige på grunn av ulike situasjoner.",
+    "output": "Vi beklager med stor bekymring å informere deg om at noen av de ønskede produktene er utslutte på grunn av ulike situasjoner. Vi anbefaler deg å søke alternativer eller kontaktere oss for ytterligere hjelp og informasjon."
+  },
+  {
+    "instruction": "For en gitt liste med ord, lag en setning som er grammatisk korrekt",
+    "input": "katt, person, glad",
+    "output": "Den glade katten satte sig ved siden av den glade personen."
+  },
+  {
+    "instruction": "Tildel følgende adjektiver til de oppgitte substantivene: ett ord om gangen, krevende.",
+    "input": "Substantiver: jobb, sjef",
+    "output": "Jobb: krevende\nSjef: ett ord om gangen"
+  },
+  {
+    "instruction": "For følgende setning, gi et synonym for ordet \"wry\":",
+    "input": "The old man had a wry smile",
+    "output": "The old man had a twisted smile."
+  },
+  {
+    "instruction": "Lag en hilsen til en kunde som nettopp har gjort et kjøp.",
+    "input": "Kunden kjøpte nettopp et par hodetelefoner.",
+    "output": "Hei,\n\nVi er så glade for at du valgte våre hodetelefoner som din nyeste kjøp! Vi er overbeviste om at de vil være perfekta til å hjelpe deg med å motta og sende meldinger i en effektiv måte. \n\nVi ønsker deg velkommen til vårt selskap og håper du vil komme tilbake for mer av våre produkter i fremtiden. \n\nHusk å ta vare på dine hodetelefoner og vi ser frem til å høre fra deg senere!\n\nMed vennlig hilsen,\n[Ditt selskap]"
+  },
+  {
+    "instruction": "Gi en Python-kodebit for å beregne summen av to tall.",
+    "input": "a = 2\nb = 3",
+    "output": "Summen av to tall kan beregnes ved å legge dem sammen. Her er en enkel kode som gjør dette:\n\na = 2\nb = 3\n\nsummen = a + b\n\nprint(\"Summen av\", a, \"og\", b, \"er\", summen)"
+  },
+  {
+    "instruction": "Legg til følgende setning på slutten av teksten.",
+    "input": "Huset så merkelige hendelser den natten.",
+    "output": "Husk å bruke en punktum eller en spesialtegn etter setningen for å markere enden av den."
+  },
+  {
+    "instruction": "Identifiser navnet på den musikalske skalaen gitt notene.",
+    "input": "A B C# D E F# G#",
+    "output": "Den musikalske skalaen med notene A, B, C#, D, E, F# og G# er en melodi skala i tonen A."
+  },
+  {
+    "instruction": "Gitt den gitte situasjonen, kom opp med en kreativ løsning.",
+    "input": "Miljøet forverres på grunn av industriell forurensning.",
+    "output": "En kreativ løsning kan være å sette opp et miljøpåføringsprogram i samarbeid med lokale myndigheter og industrielle virksomheter. Dette programmet kan inkludere:\n\n1. Miljøpåføringskampanjer: Industrielle virksomheter kan sette opp kampanjer som fremhever de negative konsekvensene av forurensning og fremmer miljøvennlig praksis.\n\n2. Miljøpåføringsutdannelse: Industrielle virksomheter kan tilby utdannelse og trening for deres ansatte om miljøvennlig praksis og hvordan de kan bidra til å redusere forurensningen.\n\n3. Miljøpåføringskontrakter: Industrielle virksomheter kan sette opp kontrakter med lokale myndigheter som inkluderer mål for redusering av forurensning og sanseforhold for ikke å oppfylle disse målene.\n\n4. Miljøpåføringsforskning: Industri"
+  },
+  {
+    "instruction": "Kategoriser teksten nedenfor etter sjanger",
+    "input": "Solen gikk ned i vest og kastet sine varme stråler over havet.",
+    "output": "Kategori: Natur, Sol, Hav"
+  },
+  {
+    "instruction": "I denne oppgaven må du finne synonymer for de gitte ordene.",
+    "input": "happy, excited",
+    "output": "joyful, enthusiastic"
+  },
+  {
+    "instruction": "Gi et eksempel for å demonstrere den gitte definisjonen.",
+    "input": "Metafor: en språklig figur som sammenligner to ting som normalt ikke sammenlignes.",
+    "output": "Eksempel: \"Hennes hjerte var en vegg, som ikke kunne brøkes av kjærlighet.\"\n\nDenne metaforen sammenligner hennes hjerte med en vegg, noe som normalt ikke sammenlignes. Det betyr at hennes hjerte er sterkt og uforandret, og at kjærlighet kan ikke skape eller endre den."
+  },
+  {
+    "instruction": "Legg til en passende overgangsfrase for å få setningen til å flyte bedre.",
+    "input": "My house was small but cozy",
+    "output": "My house may have been small in size, but it was filled with warmth and comfort that made it feel like home."
+  },
+  {
+    "instruction": "Oppsummer hovedpunktene fra artikkelen.",
+    "input": "Artikkel som undersøker den nåværende tilstanden til USAs økonomi.",
+    "output": "Hovedpunktene fra artikkelen om USAs økonomi er:\n\n1. USA har oppnådd et rekordhøy nedsatt arbeidsløshet.\n2. Det er en rekordhøy antall amerikanske borgere som lever i armeni.\n3. USA har oppnådd et rekordhøy antall borgere som lever under armeni.\n4. USA har oppnådd et rekordhøy antall borgere som ikke har en høyere utdannelse enn high school.\n5. USA har oppnådd et rekordhøy antall borgere som ikke har en høyere utdannelse enn high school og som også lever under armeni."
+  },
+  {
+    "instruction": "Skriv en overbevisende argumentasjon til fordel for en gitt sak.",
+    "input": "Behovet for å redusere vår avhengighet av fossile brensler.",
+    "output": "Vi må redusere vår avhengighet av fossile brensler for å sikre fremtidig energi-sikkerhet og bekjempe klimaendringer. Fossile brensler er en av de høyeste kilder til utslipp av koldioxid, som er en av de hovedårsakene til global varmeopvarming og klimaendringer. Dette kan føre til store konsekvenser for miljøet vårt og fremtidige generasjoner.\n\nEn annen viktig grunn til å redusere vår avhengighet av fossile brensler er energi-sikkerheten vårt. Vi avhenger sterkt av import av fossile brensler fra andre land, noe som kan føre til usikkerhet og prisskudd i energiutvalg. Ved å investere i alternative energisrader, som sol- og vindkraft, kan vi sikre oss en mer uavhengig og sikker energi-sikkerhet.\n\nEndelig, ved å redusere vår avhengighet av fossile brensler, kan vi bidra til"
+  },
+  {
+    "instruction": "Design en e-handels nettside",
+    "input": "Nettsiden er for en online klesbutikk som heter \"Trendy Closet\".",
+    "output": "Hovedsiden:\n\n- En høydebrettet banner med et unikt og moderne design som viser de mest populære produktene.\n- En navigasjon meny med tre hovedkategorier: Kjole, Skjorte og T-shirt.\n- En søkefelt hvor brukeren kan søke etter spesifikke produkter eller kategorier.\n- En \"New Arrivals\" seksjon som viser de nyeste og mest populære produktene.\n- En \"Best Sellers\" seksjon som viser de mest solte produktene.\n\nKategori side:\n\n- En høydebrettet banner som viser de mest populære produktene i den valgte kategorien.\n- En liste over subkategorier i den valgte kategorien.\n- En søkefelt hvor brukeren kan søke etter spesifikke produkter eller kategorier.\n- En \"Best Sellers\" seksjon som viser de mest solte produktene i den valgte kategorien.\n\nProdukt side:\n\n- En høydebrettet banner som viser produktet.\n- En detaljert beskrivelse av produktet inkludert materialer, størrelser og farger."
+  },
+  {
+    "instruction": "Lag en slagord som representerer misjonsuttalelsen til den gitte organisasjonen.",
+    "input": "The World Wildlife Fund",
+    "output": "\"Protecting wildlife and their habitats for future generations.\""
+  },
+  {
+    "instruction": "Skriv et kort manus for en TV-reklame",
+    "input": "Produkt: Elektriske barbermaskiner",
+    "output": "Title: \"The Ultimate Barber Experience\"\n\nOpening shot of a man sitting in a barber chair with a worried look on his face.\n\nVoiceover: \"Do you dread going to the barber? Do you worry about getting a bad cut or an uncomfortable shave?\"\n\nCut to a close-up of a barber mask with the words \"Electric Barber\" written on it.\n\nVoiceover: \"Introducing Electric Barber - the ultimate barber experience.\"\n\nCut to a montage of people getting their hair and beard trimmed using the electric barber mask.\n\nVoiceover: \"Our electric barber mask is designed to give you a perfect cut every time. With its advanced technology, you can say goodbye to uneven cuts and painful shaves.\"\n\nCut to a satisfied customer holding up his freshly trimmed beard.\n\nVoiceover: \"And with its comfortable design, you won't even feel like you're at the barber's shop anymore.\"\n\nClosing shot of the electric barber mask with the tagline \"The Ultimate Barber Experience.\"\n\nVoiceover: \"Get your hands on the Electric Barber today and experience the perfect haircut every time.\""
+  },
+  {
+    "instruction": "Omformulere følgende uttalelse til en spørsmål.",
+    "input": "The cranes migrated south for the winter.",
+    "output": "Did the cranes migrate south for the winter?"
+  },
+  {
+    "instruction": "Basert på Wikipedia-artikkelen nedenfor, lag en 100-ords oppsummering av konseptet.",
+    "input": "Flow (psykologi)\nFlow, også kjent som sonen, er den mentale tilstanden der en person som utfører en aktivitet, er fullstendig fordypet i en følelse av energisk fokus, full involvering og glede i prosessen med aktiviteten. I essens er flow preget av fullstendig absorpsjon i det man gjør, og en resulterende tap av ens følelse av tid og rom.",
+    "output": "Flow er en mentaltilstand hvor en person er fuldstendig fordypet i en aktivitet, involvert og glade i prosessen. Det er karakterisert ved en tap av følelsen av tid og rom, og en fokus på det man gjør."
+  },
+  {
+    "instruction": "Tilordne etiketter til følgende setning. Etikettene kan inkludere 'person', 'sted', 'objekt', osv.",
+    "input": "James climbed a tall tree.",
+    "output": "Person: James\nObject: Tree"
+  },
+  {
+    "instruction": "Analyser denne setningen og identifiser ordklassene.",
+    "input": "Hun spiste en deilig kake.",
+    "output": "Hun - pronomen (subject)\nspiste - verb (action)\nen - article\ndeilig - adjective (descriptive)\nkake - noun (object)"
+  },
+  {
+    "instruction": "Lag et Python-program som beregner medianen til en rekke tall.",
+    "input": "5, 15, 20, 2, 10",
+    "output": "Her er et Python-program som beregner medianen til en rekke tall:\n\n```python\ndef find_median(numbers):\n    sorted_numbers = sorted(numbers)\n    n = len(sorted_numbers)\n    if n % 2 == 0:\n        median = (sorted_numbers[n//2 - 1] + sorted_numbers[n//2]) / 2\n    else:\n        median = sorted_numbers[n//2]\n    return median\n\nnumbers = [5, 15, 20, 2, 10]\nmedian = find_median(numbers)\nprint(\"Medianen til\", numbers, \"er\", median)\n```\n\nProgrammet definere en funksjon `find_median` som tar inn en liste med tall som argument. Funksjonen først sorterer listen av tallene og teller antall tall i listen. Hvis antallet av tall er ugerne, så er medianen gjennomsnittet av de to midtliggende tallene. Hvis antallet av tall er ulgerne, så er medianen det midtliggende tallet. Funksjonen returnerer medianen.\n\nI programmet kalles funksjonen `find_median` med en liste med tall som argument"
+  },
+  {
+    "instruction": "Gitt en rekke med utsagn, kombiner dem til en enkelt setning.",
+    "input": "Byen er travel. Gater er fulle.",
+    "output": "The city is bustling with travelers and the streets are crowded."
+  },
+  {
+    "instruction": "Identifiser to verb i følgende setning: \"Han gikk raskt til butikken.\"",
+    "input": "Han gikk raskt til butikken.",
+    "output": "Identifiser: Gikk"
+  },
+  {
+    "instruction": "Forutsi følelsen fra teksten.",
+    "input": "Alice er så spent fordi hun skal på sin første solotur.",
+    "output": "Hun føler en mix af uroligelse og spænding. Hun er nervøs for at være alene og måtte selv handle, men hun også er opmuntret af den nye udfordring. Hun føler en anklagende stemme i hovedet som siger \"du kan det\", mens hun samtidig føler en smule usikker på sig selv. Hun er også lidt urolig for at være væk fra familien og de kendte omgivelser. Overall føler hun en kombination af uroligelse, spænding og lidt usikkerhed, men også en anklagende stemme som støtter hende."
+  },
+  {
+    "instruction": "Konverter følgende tekst til dens tilsvarende grafemiske form:",
+    "input": "yes",
+    "output": "Y-E-S"
+  },
+  {
+    "instruction": "Konstruer en logisk gyldig uttalelse fra følgende ord.",
+    "input": "['fugler', 'flyr', 'A'].",
+    "output": "\"Fugler flyr i luften.\""
+  },
+  {
+    "instruction": "Analyser følgende kode og forklar formålet med hver linje som en kommentar.",
+    "input": "int i = 1;",
+    "output": "// This line declares an integer variable named \"i\" and assigns it the value of 1."
+  },
+  {
+    "instruction": "Konverter følgende brøk til et desimaltall.",
+    "input": "7/20",
+    "output": "7/20 = 0.35"
+  },
+  {
+    "instruction": "Gi en produktanbefaling basert på følgende kriterier.",
+    "input": "Kunden leter etter en høykvalitets bærbar datamaskin med en 15-tommers skjerm og et budsjett på $1,000.",
+    "output": "Basert på de gitt kriteriene, anbefaler vi den Apple MacBook Pro 13-inch (M1 Chip) med 8GB RAM og 256GB SSD. Denne datamaskinen har en høykvalitets skjerm med en resolusjon på 13.3 inches, og den er også bærbar med en vekt på kun 2.9 pounds. Denne modellen tilbyr også en lang batteri-tilhverdighet og er i høy grad sikker og robust mot ufall. Denne datamaskinen vil passe perfekt for en kunde som leter etter en høykvalitets bærbar datamaskin med en 15-tommers skjerm og et budsjett på $1,000."
+  },
+  {
+    "instruction": "Sensurer den gitte teksten for å fjerne alle navn og adresser",
+    "input": "John Doe sin adresse er 1234 Main Street, Anytown, XY 12222.",
+    "output": "The address of John Doe is 1234 Main Street, Anytown, XY 12222."
+  },
+  {
+    "instruction": "Skriv en anmeldelse for den mobile telefonen jeg nettopp kjøpte.",
+    "input": "Samsung Galaxy Note 10",
+    "output": "I har nettopp kjøpt Samsung Galaxy Note 10 og jeg er absolutt imponert av denne telefonen. Denne telefonen er et utrolig sterk og moderne enhet som har en fantastisk design og funksjonalitet. \n\nDenne telefonen har en stor og klar skjerm som gir deg muligheten til å se innhold på en høy kvalitet. Skjermen er også veldig responsiv og reaktiv, så du kan bruke den uten problemer. \n\nGalaxy Note 10 har en fantastisk kamera som gir deg muligheten til å ta fantastiske bilder og videoer. Kameratilpasselsfunksjoner gir deg muligheten til å justere fokus, lys, og andre parametre for å få de bedste bildene mulige. \n\nTelefonen har også en fantastisk bateri som kan hold ut i en hel dag uten å måtte laste den. Det er også en fantastisk lagring som gir deg muligheten til å lagre store mängder data på enheten. \n\nGalaxy Note 10 er en fantastisk telefon som har alt du trenger i en moderne telefon."
+  },
+  {
+    "instruction": "Generer en ny Wikipedia-artikkel",
+    "input": "The Tibetan Wolf",
+    "output": "The Tibetan Wolf (Canis lupus chanco) is a subspecies of the gray wolf that is found in the high-altitude regions of the Himalayas and the Tibetan Plateau. It is one of the largest wolves in the world, with an average weight of 70-80 kg for males and 50-60 kg for females.\n\nPhysical Characteristics:\nThe Tibetan Wolf has a thick coat of fur to protect it from the cold temperatures of its habitat. Its fur color ranges from light gray to dark brown, with black or white markings on its face and legs. The wolf's ears are small and rounded, and its tail is bushy and long.\n\nHabitat:\nThe Tibetan Wolf lives in mountainous areas at elevations of up to 5,000 meters above sea level. It prefers rocky terrain with steep slopes and cliffs, where it can easily climb and navigate. The wolf also inhabits forests, grasslands, and meadows.\n\nDiet:\nThe Tibetan Wolf is a carnivore and feeds on a variety of prey, including wild sheep, goats, deer, and antelopes. It is known to hunt in packs and can take down prey much larger than itself.\n\nBehavior:\nThe Tibetan Wolf is a social animal and"
+  },
+  {
+    "instruction": "Beskjær ordene i setningen for å gjøre den kort og forståelig.",
+    "input": "Disturbances caused by loud noises originating from the construction site",
+    "output": "Loud noises from the construction site cause disturbances."
+  },
+  {
+    "instruction": "Klassifiser følgende sangtekster som 1) livlige eller 2) rolige og dempede. Skriv ut 1 for livlige og 2 for rolige og dempede.",
+    "input": "Du gikk inn, rommet lyste opp",
+    "output": "1"
+  },
+  {
+    "instruction": "Standardiser følgende dato til ISO 8601-formatet.",
+    "input": "26. juli 2021",
+    "output": "2021-07-26"
+  },
+  {
+    "instruction": "Liste opp trinnene i en oppgave.",
+    "input": "Lage en kake",
+    "output": "1. Hent nødvendige ingredienser: sukker, mørk chokolade, mel, æg, vaniljeeksept, olje, lactosefri mel, lactosefri sukker, lactosefri æg, lactosefri vaniljeeksept og lactosefri olje.\n2. Meng mel, lactosefri sukker, lactosefri æg, lactosefri vaniljeeksept og lactosefri olje i en stor tøffel.\n3. Meng lactosefri mørk chokolade med lactosefri mel i en annen tøffel.\n4. Meng lactosefri mørk chokolade med lactosefri mel i den andre tøffelen.\n5. Meng de to tøfflene sammen og blandingen til en smidig kakeblanding.\n6. Fjern kakeblandingen i en form og stek i en varm ovn i ca 30 minutter.\n7. La kaken koble og krybne i en halvtime.\n8. Fjern k"
+  },
+  {
+    "instruction": "Lag en bakstrett med de gitte ingrediensene.",
+    "input": "Pekannøtter, kanel, honning",
+    "output": "Og vanilje er noen populære ingredienser som kan legges til bakstretten for å gi den en litt mer spesiell smak. Lag en bakstrett ved å mixe sammen gitte ingrediensene i en stor tinn eller en bakstrett. Du kan også legge til andre ingredienser som du liker, som eksempelvis citron juice eller limettjuice for å gi bakstretten en litt mer frisk smak. La bakstretten stå i kylskapen i minst 30 minutter før du bruter den i en oppvarmte ovn."
+  },
+  {
+    "instruction": "Fra den gitte setningen, marker den antydede frasen",
+    "input": "Han marsjerte med et bestemt utseende.",
+    "output": "Antydede frasen: \"med et bestemt utseende\""
+  },
+  {
+    "instruction": "Kategoriser en liste over blomster.",
+    "input": "Lilje, Tusenfryd, Ringblomst, Prestekrage",
+    "output": "Lilje: Blomstertyp\nTusenfryd: Blomstertyp\nRingblomst: Blomstertyp\nPrestekrage: Blomstertyp"
+  },
+  {
+    "instruction": "Fjern den tredje bokstaven fra hvert ord i denne setningen.",
+    "input": "Storms cause large amounts of damage.",
+    "output": "Stoms cuse larg amunts of damge."
+  },
+  {
+    "instruction": "Inverter følgende setning og skriv ut den inverterte setningen.",
+    "input": "The trees were covered with snow.",
+    "output": "Snow covered the trees."
+  },
+  {
+    "instruction": "Strukturer følgende instruksjoner til en trinnvis guide.",
+    "input": "Start en samtale med noen på LinkedIn for jobbrelatert råd.",
+    "output": "1. Velg de rette personene: Finn og velg de rette personene som du ønsker å kontakte på LinkedIn. Dette kan være kolleger, forrige arbeidsgivere eller andre som har relevante erfaringer i jobbrelatert området.\n\n2. Skriv en kort innledning: Skriv en kort innledning som beskriver hvem du er og hva du ønsker å snakke med dem om. Fokus på jobbrelatert råd og hvordan de kan hjelpe deg.\n\n3. Spør om hjelp: Spør om hjelp og forespør om de kan gi deg råd om hvordan du kan finne jobb i det spesifikke området du er interessert i.\n\n4. Gå gjennom dine kvalifikasjoner: Gå gjennom dine kvalifikasjoner og erfaringer og spør om de kan gi deg råd om hvordan du kan vise disse i din søknad eller CV.\n\n5. Spør om referanser: Spør om de kan gi deg referanser fra tidligere arbeidsrelaterte situas"
+  },
+  {
+    "instruction": "Konstruer en dialog mellom to roboter som snakker om tingenes internett.",
+    "input": "Robot 1: Hei, Robot 2.\nRobot 2: Hei, Robot 1.",
+    "output": "Robot 1: Hvordan går det? Har du sett noen nyttig ting på Internettet i dag?\nRobot 2: Ja, jeg har sett noen interessante ting. Hva har du sett?\nRobot 1: Jeg har sett noen nye apper for å hjelpe med å organisere dagens planer. Det er også en app for å finne de mest spennende opplevelser i nærheten.\nRobot 2: Det lyder spennende! Jeg har også sett noen nyttige apper for å hjelpe med å lage mat og oppskrifter. Det er også en app for å finne de mest spennende reiser i nærheten.\nRobot 1: Det er veldig interessant! Jeg tror at tingenes internett er en fantastisk ressurs for å finne nyttig informasjon og opplevelser.\nRobot 2: Ja, det er sant. Det er viktig å bruke tingenes internett på en smart måte for å få de mest spennende og nyttige erfaringene."
+  },
+  {
+    "instruction": "Analyser følgende samtale og foreslå to forbedringer som bør gjøres.",
+    "input": "Jon: Hei hvordan går det?\nJill: Ikke bra, jeg kranglet med søsteren min.",
+    "output": "Forbedring 1: Jon kan forespørre Jill om hun vil snakke mer om hva som skjedde med søsteren hennes, slik at hun kan få støtte og hjelp i denne situasjonen.\n\nForbedring 2: Jill kan forespørre Jon om hans dag og hvordan han føler seg, slik at de kan snakke mer om hverandre og støtte hverandre."
+  },
+  {
+    "instruction": "Hvordan kan dette brukes på en positiv måte?",
+    "input": "Mobiltelefoner kan være distraherende.",
+    "output": "Det er mulig å bruke mobiltelefoner på en positiv måte ved å bruke dem til å forbedre livet vårt. Her er noen forslag:\n\n1. Kommunikasjon: Mobiltelefoner gir oss muligheten til å kommunisere med andre i verden, uansett hvor vi er. Vi kan ringe, skrive eller videokommunikere med familie og venner.\n\n2. Informasjon: Mobiltelefoner gir oss tilgang til informasjon om verden rundt oss. Vi kan lære nytt om verdenshistorie, natur, teknologi og mer.\n\n3. Hjelpemidler: Mobiltelefoner kan hjelpe oss med å navigere, finne plasser og planlegge reiser. Vi kan også bruke dem til å henvende seg til sjukhus eller andre tjenester.\n\n4. Spill og hobbyer: Mobiltelefoner gir oss mulighet til å spille spill, lese bøker, se filmer og TV-serier, og spille musikk. Disse aktivitetene kan være relaxende og spennende.\n\n5. Selvrefleksjon: Mobil"
+  },
+  {
+    "instruction": "Utvikle en strategi for å vinne det gitte spillet.",
+    "input": "Tic-tac-toe",
+    "output": "Here is a strategy to win the game of tic-tac-toe:\n\n1. Start in the center: The center square is the most important square on the board because it gives you the most opportunities to make a winning move. If your opponent starts in the corner or along the edge, try to take the center square.\n\n2. Block your opponent's winning moves: Always be aware of your opponent's potential winning moves and block them if possible. This will prevent them from winning and give you more opportunities to make a winning move.\n\n3. Create multiple threats: Try to create multiple threats at once so that your opponent has to choose which one to block. This will force them into making a mistake and give you an opportunity to win.\n\n4. Play defensively first: In the beginning of the game, focus on playing defensively and blocking your opponent's moves. Once you have a good understanding of their strategy, start playing offensively and try to make a winning move.\n\n5. Look ahead: Always think ahead and anticipate your opponent's next move. This will help you plan your moves and make strategic decisions.\n\nRemember, tic-tac-toe is a simple game but requires careful planning and strategy to win. Practice these strategies and you'll be able to win more often!"
+  },
+  {
+    "instruction": "Skriv en kort dikt som beskriver et gitt naturfenomen.",
+    "input": "Ild",
+    "output": "Ild, du strålende skønhed,\nDu tager os i hævner med din varme.\nDu skaber liv og dør, du skaber magi,\nDu er den kraft, som alt i verden føler.\n\nDu brænder op i himlen, du skaber skildringer,\nDu tager os i en magisk rejsning.\nDu er den kraft, som alt i verden føler,\nDu er den magi, som alt i verden ser.\n\nIld, du strålende skønhed,\nDu tager os i hævner med din varme.\nDu skaber liv og dør, du skaber magi,\nDu er den kraft, som alt i verden føler."
+  },
+  {
+    "instruction": "Del det følgende tallet i to deler som har en differanse på 7.",
+    "input": "132",
+    "output": "Del 1: 65\nDel 2: 67"
+  },
+  {
+    "instruction": "Foreslå en ny idé innenfor følgende felt.",
+    "input": "Medisinsk forskning",
+    "output": "En ny idé innen medisinsk forskning kan være å utvikle en ny metode for å diagnostisere og behandle alzheimer-sjukdommen ved hjelp av genetisk teknologi. Dette kan inkludere å identifisere spesifikke genuttrykk som er knyttet til sjakkets utvikling, og deretter utvikle personaliserte behandlingsplaner basert på denne informasjonen. Dette kan gi en mer effektiv og personlig tilnærming til behandlingen av denne svært skatte sjukdommen, og kan potensielt bidra til å forbedre livskvaliteten for patientene."
+  },
+  {
+    "instruction": "Ta følgende setning og omformuler den på en formell måte",
+    "input": "This project has gone off the rails",
+    "output": "The project has deviated from its original course and is no longer on track."
+  },
+  {
+    "instruction": "Bruk dataene nedenfor for å finne befolkningstettheten i landet.",
+    "input": "Land: India\nBefolkning: 1,314 milliarder\nLandareal: 3,287 millioner kvadratkilometer",
+    "output": "Bekreftelsesfrasen til \"Befolkningstettheten i landet\" kan være:\n\nBefolkningstettheten i landet er 400 personer per kvadratkilometer."
+  },
+  {
+    "instruction": "Bestem emnet i denne paragrafen",
+    "input": "Internettet har gitt oss enorme muligheter til å nå et globalt publikum. Det har tillatt oss å koble oss sammen på tvers av grenser og dele ideer på et nivå som aldri før.",
+    "output": "Internettet har gitt oss muligheter til å nå et globalt publikum og koble oss sammen på tvers av grenser."
+  },
+  {
+    "instruction": "Gi en vurdering av det gitte maleriet",
+    "input": "Kunstverk: Monets \"Water Lilies\"",
+    "output": "Monets \"Water Lilies\" er et av de mest kjente og berømte malerier i verdenshistorien. Maleren Claude Monet var en av de mest innovativerne i impressionistisk maleri, og hans \"Water Lilies\" ser ut som en av hans mest symboliske verk.\n\nMalen viser en stillhet og harmoni som er typiske for Monets andre malerier. Det er en blåttone skjønner som er fylt med små, flyvende blomster som ser ut som de er vektede av vinden. Det er en voldsom synsdimension som er oppfattet som en symbol for Monets personlighet og sin kunst.\n\nMalen er også en representasjon av Monets interesser og hensyn til naturen. Det er en malning som viser Monets kraftig forhold til naturen og hans evne til å oppdage den underliggende harmonien i naturen.\n\nSamlet sett er \"Water Lilies\" en av de mest berømte malerier i verdenshistorien. Det er en malning som viser Monets evne til å oppd"
+  },
+  {
+    "instruction": "Finn primtallfaktorene til det følgende tallet.",
+    "input": "60",
+    "output": "Primtallfaktorer til 60 er:\n\n2, 3 og 5"
+  },
+  {
+    "instruction": "Kom med minst 5 mulige løsninger på det gitte problemet.",
+    "input": "Problem: Trafikkork i urbane områder.",
+    "output": "1. Implementere en effektiv trafikkbehandlingssystem som kan håndtere høy trafikklast og redusere forsinkelser.\n2. Opprette en system for sporing av trafikkører og varetransporter for å unngå overbelasted veier og forhåndsplanlegge transportstrategier.\n3. Opprette en system for varetransporter som kan tilby flexibel leverandørspedagogikk og varetransporter som kan tilby flexibel leverandørspedagogikk.\n4. Opprette en system for varetransporter som kan tilby flexibel leverandørspedagogikk og varetransporter som kan tilby flexibel leverandørspedagogikk.\n5. Opprette en system for varetransporter som kan tilby flexibel leverandørspedagogikk og varetransporter som kan tilby flexibel leverandørspedagogikk."
+  },
+  {
+    "instruction": "Skriv om listen over produkter ved hjelp av formateringsteknikker.",
+    "input": "Glass – 10 enheter\nSølv – 5 enheter\nTre – 2 enheter",
+    "output": "Glass:\n- 10 enheter\n\nSølv:\n- 5 enheter\n\nTre:\n- 2 enheter"
+  },
+  {
+    "instruction": "Oppsummer følgende tekst på maksimalt 15 ord.",
+    "input": "Software engineering is the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method.",
+    "output": "Software engineering involves using an engineering approach to create software systematically."
+  },
+  {
+    "instruction": "Gitt følgende tekst, identifiser språket som brukes.",
+    "input": "Hola, ¿cómo estás?",
+    "output": "Språket som brukes i teksten er spansk."
+  },
+  {
+    "instruction": "Gitt følgende tekst, klassifiser følelsen uttrykt av teksten.",
+    "input": "Jeg kan ikke tro at jeg strøk på prøven.",
+    "output": "Feltelsen uttrykt av teksten er en kombinasjon av glade og overraskende følelser."
+  },
+  {
+    "instruction": "Merke hvert av de gitte dataene som enten \"diskret\" eller \"kontinuerlig\".",
+    "input": "Høyde",
+    "output": "Diskret"
+  },
+  {
+    "instruction": "Beskriv en ting som taleren er takknemlig for i denne samtalen.",
+    "input": "A: Det har vært en lang dag med studier, men jeg tror det er endelig over.\n\nB: Ja, ting avsluttes pent.",
+    "output": "Ting som jeg er takknemlig for i denne samtalen er at du har lyttet og forstått meg, og at vi har funnet en løsning på problemet jeg har haft. Jeg er også takknemlig for at du har hjulpet meg med å finne veien frem til løsningen."
+  },
+  {
+    "instruction": "Skille mellom små og store tall?",
+    "input": "Befolkningen i Kina er 1,4 milliarder.",
+    "output": "Ja, det er en stor forskel mellom små og store tall. 1,4 milliarder er et enormt tall og kan være svært å forstå eller visualisere. For eksempel, hvis du hadde 1,4 milliarder kikker, ville det ta flere timer å tell dem alle sammen. Det kan også være nyttig å sammenligne dette tall med andre store tall for å få en bedre forståelse av dessen størrelse. For eksempel, 1,4 milliarder er mer enn 100 millioner, men mindre enn 2 milliarder."
+  },
+  {
+    "instruction": "Identifiser de to hovedpersonene i den gitte teksten.",
+    "input": "John og Lisa gikk gjennom parken på en solfylt dag. De stoppet for å beundre blomstene i hagen og snakket om planene sine for fremtiden.",
+    "output": "Hovedpersonene i teksten er John og Lisa."
+  },
+  {
+    "instruction": "Identifiser og ekstraher nøkkelsetninger i setningen.",
+    "input": "The weather was cold and sunny today.",
+    "output": "Nøkkelsetninger: \n- weather\n- cold\n- sunny"
+  },
+  {
+    "instruction": "Konverter følgende frase til store bokstaver.",
+    "input": "I love technology",
+    "output": "I LOVE TECHNOLOGY"
+  },
+  {
+    "instruction": "Gitt denne rekken med tall, forutsi det neste tallet i mønsteret.",
+    "input": "3, 7, 11, 15",
+    "output": "19"
+  },
+  {
+    "instruction": "Konstruer et treningsdatasett for en klassifiseringsoppgave.",
+    "input": "Klassifiseringsoppgave: Identifiser alle land i verden med en befolkning på 1 million eller mer.",
+    "output": "Treningsdatasett:\n\n1. United States of America - Yes\n2. China - Yes\n3. India - Yes\n4. Indonesia - Yes\n5. Brazil - Yes\n6. Pakistan - Yes\n7. Nigeria - Yes\n8. Bangladesh - Yes\n9. Russia - Yes\n10. Japan - Yes\n11. Mexico - Yes\n12. Germany - Yes\n13. France - Yes\n14. Italy - Yes\n15. Spain - Yes\n16. Canada - Yes\n17. South Korea - Yes\n18. Australia - Yes\n19. Saudi Arabia - Yes\n20. Iran - Yes\n\nTestdatasett:\n\n1. Egypt - No\n2. Vietnam - No\n3. Argentina - No\n4. Thailand - No\n5. Philippines - No\n6. Turkey - No\n7. Ukraine - No\n8. Peru - No\n9. Colombia - No\n10. Venezuela - No\n11. Chile - No\n12. Greece - No\n13. Portugal - No\n14. Romania - No\n15. Hungary - No\n16. Poland - No\n17. Czech Republic - No"
+  },
+  {
+    "instruction": "Kategoriser følgende enhet som enten en plante, et dyr eller en sopp",
+    "input": "Sopp",
+    "output": "En sopp."
+  },
+  {
+    "instruction": "Finn ut hvilken påstand som er sann.",
+    "input": "Amerika er det tredje største landet i verden\nAustralia er det andre største landet i verden",
+    "output": "Amerika er det tredje største landet i verden."
+  },
+  {
+    "instruction": "Beskriv den gitte katt-memen på 140 tegn eller mindre.",
+    "input": "[https://i.imgflip.com/3ylr2r.jpg]",
+    "output": "Den gitte katt-memen er en katt som sitter med hovedet i en tørreksleskasse og ser ut som om hun er frustrert."
+  },
+  {
+    "instruction": "Dobbel lengden på denne setningen",
+    "input": "The sun was shining brightly.",
+    "output": "5"
+  },
+  {
+    "instruction": "Skriv tre spørsmål en person kan spørre om følgende tema.",
+    "input": "Sports",
+    "output": "1. What sports do you enjoy playing or watching? \n2. How often do you exercise or participate in physical activities? \n3. Do you have any tips for staying motivated to stay active and healthy?"
+  },
+  {
+    "instruction": "Beskriv et sted du har besøkt på under 100 ord.",
+    "input": "The Grand Canyon",
+    "output": "The Grand Canyon is a breathtaking natural wonder located in Arizona, USA. It is a massive canyon carved out by the Colorado River over millions of years. The canyon is approximately 277 miles long and up to 18 miles wide. The steep cliffs and colorful rock formations create a stunning landscape that attracts visitors from all over the world. The views from the rim are absolutely breathtaking, with the sheer size of the canyon taking your breath away. Hiking down into the canyon is an unforgettable experience, as you witness the power of nature and the beauty of the earth. The Grand Canyon is truly one of the most awe-inspiring places on Earth."
+  },
+  {
+    "instruction": "Bestem hvilke to tilstøtende land som deler en vannkant.",
+    "input": "India og Pakistan",
+    "output": "Delar en vannkant."
+  },
+  {
+    "instruction": "Gitt en serie med tweets fra en bruker, kom opp med en overskrift som oppsummerer innholdet.",
+    "input": "- Jeg er så sint at ingenting kommer til å bli gjort i dag\n- Denne hele uken har vært en komplett katastrofe\n- Jeg vil bare få det overstått",
+    "output": "\"En brukers frustrerte og utmattede tilbakemelding om uken sin\""
+  },
+  {
+    "instruction": "Bør denne setningen skrives om?",
+    "input": "En forsker studerer universet.",
+    "output": "En forsker utforsker universets mysterier."
+  },
+  {
+    "instruction": "Klassifiser følgende setning som den typen tale den er.",
+    "input": "Setning: Svaret er fem.",
+    "output": "Denne setningen klassifiseres som en faktisk setning, da den beskriver en faktisk situasjon eller en realistisk sannhet."
+  },
+  {
+    "instruction": "Konverter den gitte inputen til en kompleks ligning.",
+    "input": "4x + 8y = 16",
+    "output": "4x + 8y - 16 = 0"
+  },
+  {
+    "instruction": "Gjør denne setningen om til en hyggelig forespørsel.",
+    "input": "Du må gjøre det.",
+    "output": "Kan du vennligst hjelpe meg med å gjøre dette?"
+  },
+  {
+    "instruction": "Generer en hashtag for å promotere et merke eller produkt.",
+    "input": "Halo Burger",
+    "output": "#HaloBurgerLove"
+  },
+  {
+    "instruction": "Tolk tonen i teksten.",
+    "input": "I dag var en forferdelig dag. Jeg hadde en hektisk morgen, etterfulgt av en slitsom ettermiddag.",
+    "output": "Men da kom solen ut og ble det lys og varmt. Jeg gikk ut og spiste en kaffekopp på terrassen. Det var så rolig og seriette. Jeg kunne høre vannet strømme nedover steinene og høre fuglene sjunge. Det var som om alt var tilbake i stedet for at alt var mistett."
+  },
+  {
+    "instruction": "Gitt en liste med ligninger og verdier, beregn variansen.",
+    "input": "Ligning 1: x + y = 5\nVerdi av x: 1\nVerdi av y: 4\nLigning 2: y + z = 10\nVerdi av y: 4\nVerdi av z: 6",
+    "output": "Ligning 3: x + z = 7\nVerdi av x: 1\nVerdi av z: 6\n\nFor å beregne variansen, må vi først beregne gjennomsnittet av verdiene for hver variabel. \n\nGjennomsnittet av x-verdiene er (1+1)/2 = 1 \nGjennomsnittet av y-verdiene er (4+4)/2 = 4 \nGjennomsnittet av z-verdiene er (6+6)/2 = 6 \n\nNeste skritt er å beregne forskjellen mellom hver verdi og gjennomsnittet, og kvadrere resultatet. \n\nForskjellen mellom x-verdiene og gjennomsnittet er (1-1)^2 = 0 \nForskjellen mellom y-verdiene og gjennomsnittet er (4-4)^2 = 0 \nForskjellen mellom z-verdiene og gjennomsnittet er (6-6)^2 = 0 \n\nSiste skritt er å summere alle kvadrerte forsk"
+  },
+  {
+    "instruction": "Gitt prisen på et produkt og listen over tilgjengelige rabatter, beregn den endelige prisen etter rabatter.",
+    "input": "Pris: $100\nRabatter: 20% avslag, 10% av det resterende",
+    "output": "Endelig pris: $72"
+  },
+  {
+    "instruction": "List opp fem adjektiver som best beskriver denne personen.",
+    "input": "Person: Steve Jobs",
+    "output": "1. Visionär\n2. Innovativ\n3. Inspirerende\n4. Kreativ\n5. Strategisk"
+  },
+  {
+    "instruction": "Gi en liste over elementer som trengs for å fullføre en oppgave.",
+    "input": "Jeg vil lage italiensk pasta med kulturelle ingredienser.",
+    "output": "- Pasta (spagetti, fettucini, penne, etc.)\n- Olivenolje\n- Skal\n- Kjøtt (pølser, kabanossi, kalmars, etc.)\n- Tomater\n- Parmesanost\n- Basilikum\n- Oregano\n- Salt\n- Pepper\n- Ketchup\n- Sos (tomat-, pesto-, alfredo-, etc.)\n- Garnasj (bocconcini, salat, etc.)\n- Krydderier (oregano, basilikum, thym, etc.)\n- Kjøttspenger\n- Parmesanost\n- Olivenolje"
+  },
+  {
+    "instruction": "Skriv om setningen ved å bruke et annet ordforråd for å gjøre den mer interessant.",
+    "input": "I opened the door and walked inside.",
+    "output": "I pushed open the entrance and strolled into the room."
+  },
+  {
+    "instruction": "Oppsummer artikkelen om produkt A.",
+    "input": "Artikkel om Produkt A: Produkt A er et innovativt nytt produkt som gir brukerne en rask, sikker og pålitelig måte å overføre penger på nettet. Det tilbyr også en rekke andre funksjoner, som støtte for flere kontoer, integrasjon med sosiale medier og sikker to-trinns autentisering.",
+    "output": "Oppsummering av artikkel om Produkt A: Produkt A er et nytt og innovativt produkt som gir brukerne en rask, sikker og pålitelig måte å overføre penger på nettet. Det tilbyr også funksjoner som støtte for flere kontoer, integrasjon med sosiale medier og sikker to-trinns autentisering."
+  },
+  {
+    "instruction": "Legg til fem oppføringer til en liste over amerikanske stater.",
+    "input": "California, Florida, Texas, New York,",
+    "output": "North Carolina"
+  },
+  {
+    "instruction": "I denne oppgaven får du et ord og dets definisjon, vennligst gi et motsetningsord for ordet.",
+    "input": "Tranquil (rolig eller fredelig)",
+    "output": "Motsettingsord: \n- Urolig\n- Ufredelig\n- Stresstilt\n- Anspørsom\n- Nervøs"
+  },
+  {
+    "instruction": "Omskriv følgende setning for å gjøre den mer relevant for dagens verden.",
+    "input": "Tidligere brukte folk hovedsakelig hester til transport.",
+    "output": "I dag brukes hester hovedsakelig for turisme og sport, men de har også spesielle bruker i landbruk og militærtjeneste."
+  },
+  {
+    "instruction": "Finn ut hvilket alternativ som er riktig og skriv det ut.",
+    "input": "A) Maur\nB) Fluer\nC) Mygg",
+    "output": "C) Mygg"
+  },
+  {
+    "instruction": "Beskriv hovedpersonens karakter i den gitte TV-serien.",
+    "input": "Game of Thrones",
+    "output": "Hovedpersonen i Game of Thrones er Jon Snow, en unges og ufarlig soldat som blir avslørt som en Targaryen og har en sterk forbindelse til det mørke og mystiske Nordland. Han er en vennlig og lojal person som er evig til stede for sine venner, men også en person som kan være kalt og utilskjeden i situasjoner der det krever en høy grad av vold og krav til loyaltet. Hans karakter utvikler seg over tid, og han blir en av de mest komplekse og interessante hovedpersoner i serien."
+  },
+  {
+    "instruction": "Beskriv en forretningspraksis.",
+    "input": "Diminishing marginal utility",
+    "output": "Diminishing marginal utility is an economic concept that describes the phenomenon where the additional satisfaction or benefit gained from consuming one more unit of a good or service decreases as the quantity consumed increases. In other words, the first unit of a good or service may provide a high level of satisfaction, but each subsequent unit provides less and less additional satisfaction until eventually, the marginal utility becomes zero or negative.\n\nThis concept can be applied to various aspects of business operations, including marketing, pricing, and production. For example, in marketing, companies may use this principle to determine the optimal price point for their products or services based on consumer demand and willingness to pay. In pricing, businesses may set prices that reflect the perceived value of their products or services to consumers, with higher prices reflecting greater perceived value and lower prices indicating lower perceived value.\n\nIn production, diminishing marginal utility can be used to optimize production levels and costs. By understanding how much additional output can be produced with each additional unit of input, businesses can make informed decisions about when to increase or decrease production levels to maximize profits while minimizing costs.\n\nOverall, understanding the concept of diminishing marginal utility can help businesses make better decisions about pricing, production, and marketing strategies to maximize profits and meet consumer needs."
+  },
+  {
+    "instruction": "Finn et eksempel på en kreativ måte å løse problemet nedenfor.",
+    "input": "For mange personer har tilgang til et delt kontorlokale, så det er alltid støyende og distraherende.",
+    "output": "En kreativ måte å løse problemet kan være å skape et \"stille lokale\" i kontorlokalen. Dette kan gjøres ved å sette opp et rom eller en del av kontorlokalen som er isolert fra resten av kontorlokalen. Det kan for eksempel være en rom med høye huden som kan dekorationsskiftes til en mer isolert miljø. \n\nEn annen kreative løsning kan være å bruke teknologi til å isolere støy. Dette kan gjøres ved å bruke høytak eller høye veggspillerer som kan isolere støy. En annen teknologi som kan hjelpe med å isolere støy er høye huden som kan dekorationsskiftes til en mer isolert miljø.\n\nEn tredje kreative løsning kan være å skape et \"stille lokale\" ved å bruke musikk. Dette kan gjøres ved å sette opp en musikkspiller som spiller lurt musikk som kan hjelpe med å isolere støy."
+  },
+  {
+    "instruction": "Generer en bloggpost om den nye iPhone-utgivelsen",
+    "input": "iPhone 12",
+    "output": "The highly anticipated iPhone 12 has finally been released! Apple has once again outdone themselves with this latest addition to their popular smartphone line-up. The iPhone 12 comes in four different models: the iPhone 12, iPhone 12 Mini, iPhone 12 Pro, and iPhone 12 Pro Max.\n\nOne of the most notable features of the iPhone 12 is its sleek and modern design. The phone boasts a flat-edged back that gives it a more premium look compared to previous iPhone models. It also comes in five different colors: black, white, green, blue, and (PRODUCT)RED.\n\nAnother highlight of the iPhone 12 is its powerful A14 Bionic chip. This chip is not only faster than previous models but also more energy-efficient, which means longer battery life for users. Additionally, the iPhone 12 has improved camera capabilities with a dual-camera system on the back of the phone.\n\nThe iPhone 12 Mini is a smaller version of the iPhone 12, measuring at 5.4 inches. Despite its smaller size, it still packs all the same features as the larger iPhone 12. The iPhone 12 Pro and Pro Max come with a more advanced camera system with Li"
+  },
+  {
+    "instruction": "Hvilken årstid beskriver følgende dikt",
+    "input": "Et rødt blad faller fra høyt oppe,\nTumbling ned fra himmelen.\nDet lander på bakken med et sukk;\nÅrstiden må være høst nær.",
+    "output": "Denne dikt beskriver høstens årstid."
+  },
+  {
+    "instruction": "Klassifiser den politiske orienteringen til følgende uttalelse:",
+    "input": "Regjeringen bør tilby helsetjenester og utdanning samtidig som de reduserer skatter.",
+    "output": "Denne uttalelsen kan klassifiseres som en liberal politisk orientering, da den støtter ideen om at regjeringen bør redusere skatter samtidig som de investerer i offentlige tjenester som helsetjeneste og utdanning."
+  },
+  {
+    "instruction": "Generer en kontoutskrift for en netttransaksjon på $100.",
+    "input": "Beløp: $100\nTransaksjonstype: Online",
+    "output": "Kontoutskrift for en netttransaksjon på $100:\n\nBeløp: $100\nTransaksjonstype: Online"
+  },
+  {
+    "instruction": "Oversett det gitte begrepet til det gitte språket.",
+    "input": "Computer, German",
+    "output": "Computer, Deutsch"
+  },
+  {
+    "instruction": "For følgende setning, rett opp stavefeilene:",
+    "input": "The concersion was very intens",
+    "output": "The conversion was very intense."
+  },
+  {
+    "instruction": "Konstruer et spørsmål fra den gitte påstanden",
+    "input": "Cats have stripes",
+    "output": "1. Are there any other animals that have stripes like cats?\n2. How do the stripes on a cat's fur help them blend in with their surroundings?\n3. What is the scientific name for the pattern of stripes on a cat's fur?\n4. Can you describe the different types of stripes found on a cat's body?\n5. How do the stripes on a cat's fur change as they grow and age?"
+  },
+  {
+    "instruction": "Vurder følgende setning og skriv en setning som uttrykker det motsatte av utsagnet.",
+    "input": "Penger bringer ikke lykke.",
+    "output": "Lykken bringer ikke penger."
+  },
+  {
+    "instruction": "Beregn summen av hver kolonne i følgende tabell.",
+    "input": "2   |  3  |  4\n   5   |  6  |  7",
+    "output": "Summen av hver kolonne i følgende tabell er:\n\nKolonne 1: 2 + 5 = 7\nKolonne 2: 3 + 6 = 9\nKolonne 3: 4 + 7 = 11"
+  },
+  {
+    "instruction": "Gitt en liste over idretter, identifiser de som er individuelle idretter.",
+    "input": "Golf, Svømming, Rugby, Løping",
+    "output": "Idretter: Golf, Svømming, Rugby, Løping\n\nIndividuelle idretter: Svømming, Løping"
+  },
+  {
+    "instruction": "Finn tidsforskjellen mellom de følgende to tidspunktene",
+    "input": "3:30pm 26. juni 2020 og 6:45pm 30. juni 2020",
+    "output": "Finn tidsforskjellen mellom de følgende to tidspunktene:\n\n3:30pm 26. juni 2020 og 6:45pm 30. juni 2020\n\nForskjellen i dager: 4 dager\nForskjellen i timer: 3 timer 15 minutter\nTotalt forskjell: 4 dager 3 timer 15 minutter"
+  },
+  {
+    "instruction": "Identifiser hvordan den gitte substansen påvirker fargen på en flamme.",
+    "input": "Kaliumklorid",
+    "output": "Kaliumklorid kan påvirke fargen på en flamme ved å skape et spesiell lysfarge som kalles \"kaliumfarge\". Dette skjer fordi kaliumklorid kan bruke energi fra vannet i luften til å oppdage seg selv og deretter stråle ut lys med en spesifikk farge. Denne fargen kan være blågrøtt eller rødgrøtt, avhengig av temperatursnittet i flammen. Dette kan være nyttig i forskjellige industrielle prosesser, som kraftproduksjon og smelting av metaller, da det gir en mer effektiv og kontrollert prosess."
+  },
+  {
+    "instruction": "Bruk den gitte setningen til å konstruere en gyldig engelsk setning.",
+    "input": "Dogs of many",
+    "output": "Colors can be seen in the eyes of dogs of many breeds."
+  },
+  {
+    "instruction": "Konstruer en liste som inneholder minst ti elementer.",
+    "input": "Elementer du trenger å pakke for en campingtur.",
+    "output": "1. Toppesjale\n2. Campingkikker\n3. Campingstokke\n4. Campingstov\n5. Campingkettle\n6. Campingspenn\n7. Campinglamp\n8. Campingvannbeholdning\n9. Campingmat\n10. Campingstol"
+  },
+  {
+    "instruction": "Skriv om setningen \"I eat hamburgers\" i fortid.",
+    "input": "I eat hamburgers.",
+    "output": "I ate hamburgers."
+  },
+  {
+    "instruction": "Formuler et logisk argument for følgende påstand",
+    "input": "Dyr bør ikke holdes i fangenskap",
+    "output": "Påstand: Dyr bør ikke holdes i fangenskap.\n\nLogisk argument:\n\n1. Dyr har en naturlig livsskikk som inkluderer at de lever i frihet og selvbestemmelse.\n2. Holdning av dyr i fangenskap kan skade deres fysiologiske og psykologiske helse.\n3. Det er et moralisk ansvar for mennesker å respektere dyr og deres rettigheter.\n4. Holdning av dyr i fangenskap kan være et eksploiterende og utilskommeligt brug af dyr.\n5. Det er mulig at finde alternativer til holdning af dyr i fangenskap, som inkluderer at de lever i naturlige miljøer eller som domestikke dyr med en god livskvalitet.\n6. Holdning af dyr i fangenskap kan være et eksempel på menneskets dominans over dyr og naturen, hvilket kan være skadeligt for vores samfund og miljø.\n7. Dyr har en vigtig rolle i vores natur"
+  },
+  {
+    "instruction": "Sorter koordinatpunktene fra minst til størst.",
+    "input": "(5, 7) (1, 3) (4, 4)",
+    "output": "(1, 3) (4, 4) (5, 7)"
+  },
+  {
+    "instruction": "Beregn den manglende verdien.",
+    "input": "En sirkel har en radius på 8 cm. Hva er omkretsen til sirkelen?",
+    "output": "Omkretsen til sirkelen kan beregnes ved å bruke formelen: \n\nOmkrets = 2 * π * radius\n\nDer π (pi) er en matematisk konstant som er lik 3.141592653589793. \n\nSå om vi setter inn verdien for radius i formelen, får vi:\n\nOmkrets = 2 * π * 8 cm \n         = 16π cm \n         ≈ 50.27 cm \n\nDerfor er omkretsen til sirkelen på ca. 50.27 cm."
+  },
+  {
+    "instruction": "Konverter setningen til indirekte tale.",
+    "input": "Han sa: \"Jeg skal til butikken.\"",
+    "output": "Han sa at han skulle til butikken."
+  },
+  {
+    "instruction": "Generer en CV for en markedsføringsrolle.",
+    "input": "John Smith, 24 år gammel, har 3 års erfaring innen markedsføring",
+    "output": "CV for Markedsføringsrolle\n\nNavn: John Smith\nÅlder: 24 år\nEpost: john.smith@email.com\nTelefonnummer: +47 901 23 456\n\nArbeidsopplevelse:\n\nMarkedsføringsassistent, ABC Corporation, Oslo, Norge (2018-2021)\n• Arbeidet med å utvikle og implementere markedsføringsstrategier for ABC Corporation\n• Arbeidet med å analysere data og rapportere resultater til ledelse\n• Arbeidet med å organisere og utføre kampanjer og eventer\n• Arbeidet med å utvikle og implementere sosial medierstrategier\n• Arbeidet med å samarbeide med interne og eksterne partnere for å oppnå markedsføringsmål\n\nMarkedsføringsstudent, XYZ University, Oslo, Norge (2016-2018)\n• Arbeidet med å utvikle og implementere markedsføringsstrategier for forskjellige organisas"
+  },
+  {
+    "instruction": "Gi årsaken til følgende resultat.",
+    "input": "Mitt røntgenbilde viser en liten reduksjon i tetthet fra mitt forrige.",
+    "output": "Det kan være en rødme eller en lyste rødme som har økt i størrelse siden sidst. Det kan også være en lyste rødme som har økt i størrelse siden sidst."
+  },
+  {
+    "instruction": "Generer en passende overskrift gitt følgende nyhetshistorie.",
+    "input": "Flere passasjerer ble skadet i en bilulykke i Paris som involverte en bil og en Uber-sjåfør i morges.",
+    "output": "\"Uber-sjåfør og passasjerer skade seg i bilulykke i Paris\""
+  },
+  {
+    "instruction": "Inferer riktig handling fra den gitte informasjonen.",
+    "input": "Tim har hoppet over skolen de siste tre ukene",
+    "output": "Tim har hoppet over skolen de siste tre ukene."
+  },
+  {
+    "instruction": "Generer en passende beskrivelse gitt følgende input",
+    "input": "Filmtittel: Bruce Almighty \nSjanger: Komedie \nSkuespillere: Jim Carrey",
+    "output": "\"Bruce Almighty\" er en komedifilm som teller under sjangeren \"Komedie\". Filmens hovedrolle spiller Jim Carrey, og han spiller en normal man som blir gitt Guds oppgaver for en uken. Filmens plot lurer på at Bruce må løse alle problemer i verden, men hans gode intentioner ikke alltid gir de bedre resultater enn hans gamle liv. Filmen er kjent for sin humor, spennende situasjoner og fantastiske effekter."
+  },
+  {
+    "instruction": "Klassifiser følgende tall i oddetall og partall kategorier.",
+    "input": "5, 8, 10, 12",
+    "output": "Oddetall: 5\nPartall: 8, 10, 12"
+  },
+  {
+    "instruction": "Identifiser utdataformatet til inndataene.",
+    "input": "Dataene er i CSV-format, med kolonner som representerer datoer, steder og verdier.",
+    "output": "Udataformatet kan være CSV eller en annen tekstformat som Excel, men det er viktig at den nye dataen er i samme format som inndataene for å undgå feil eller misforståelse."
+  },
+  {
+    "instruction": "Estimer kostnaden for de oppførte elementene",
+    "input": "1 jakke- $50, 8 skjorter- $40 hver",
+    "output": ", 2 jeans- $60 hver, 3 sko- $70 hver, 1 hatt- $30, 2 par solbriller- $50 hver, 1 par høytakse sko- $90, 1 par vanlige sko- $60, 1 par slittsko- $40, 1 par sandaler- $30, 1 par høye hatt- $80, 1 par høye solbriller- $100, 1 par høye høytakse sko- $120, 1 par høye vanlige sko- $90, 1 par høye slittsko- $70, 1 par høye sandaler- $50, 1 par høye høytakse sko- $150, 1 par høye høye hatt- $120, 1 par høye høye solbriller- $150, 1 par høye høye høytakse sko- $200,"
+  },
+  {
+    "instruction": "Analyser setningen for syntaks.",
+    "input": "Han skrev et brev til foreldrene sine.",
+    "output": "Han (subject) skrev (verb) et brev (object) til foreldrene sine (prepositional phrase)."
+  },
+  {
+    "instruction": "Gitt en type mat, forklar hvordan du tilbereder den.",
+    "input": "Lasagne",
+    "output": "Lasagne is a classic Italian dish made with layers of pasta sheets, meat sauce, and cheese. Here's how to make it:\n\nIngredients:\n- 1 pound lasagna noodles\n- 2 tablespoons olive oil\n- 1 onion, chopped\n- 3 cloves garlic, minced\n- 1 pound ground beef or Italian sausage\n- 1 can (28 ounces) crushed tomatoes\n- 1 teaspoon dried basil\n- 1 teaspoon dried oregano\n- 1 teaspoon salt\n- 1/4 teaspoon black pepper\n- 1 cup ricotta cheese\n- 1 egg\n- 1/2 cup grated Parmesan cheese\n- 2 cups shredded mozzarella cheese\n\nInstructions:\n\n1. Preheat the oven to 375°F (190°C).\n\n2. Cook the lasagna noodles according to package instructions until al dente. Drain and set aside.\n\n3. In a large skillet, heat the olive oil over medium-high heat. Add the onion and garlic and cook until softened, about 5 minutes.\n\n4. Add the ground beef or Italian sausage to the skillet and cook until browned, breaking up any lumps with a wooden spoon.\n\n5. Add the crushed tomatoes, basil, oreg"
+  },
+  {
+    "instruction": "Avgjør om følgende tekst inneholder upassende språk.",
+    "input": "Prosjektlederen var veldig frustrert over mengden arbeid han måtte gjøre.",
+    "output": "Nei, teksten inneholder ikke upassende språk."
+  },
+  {
+    "instruction": "Gi et enkelt ord for å fylle ut tomrommet",
+    "input": "Han ble _____ da han hørte nyheten.",
+    "output": "Han ble glade da han hørte nyheten."
+  },
+  {
+    "instruction": "Fra listen nedenfor, velg adjektivene som best beskriver en god leder.",
+    "input": "intelligent, arrogant, brave, responsible",
+    "output": "Responsible"
+  },
+  {
+    "instruction": "Oversett setningen \"Je suis française\" til norsk bokmål",
+    "input": "\"Je suis française\"",
+    "output": "\"Jeg er fransk\""
+  },
+  {
+    "instruction": "Basert på den gitte teksten, skriv en kort historie.",
+    "input": "En bonde og en forsker gikk gjennom jordene.",
+    "output": "En bonde og en forsker gikk gjennom jordene, med høye hattene på hovedene og spade i håndene. De hadde planlagt å utforske en ny areal for å finne ut om det var passende til å bygge et nyskapturert hus. \n\nSom de gikk videre, så begynte de å snakke om hva de kunne finne i jorden. Bonden snakket om hvordan han hadde vokst opp med jorden og hvordan han hadde sett seg frem til å være en bonde. Forskeren snakket om hvordan han hadde studert jorden og ønsket å lære mer om hva som ligger under jorden. \n\nDe fortsatte å gå videre, og plutselig så de en stor stein på veien. Bonden tok spaden og begynte å spade rundt steinen. Forskeren hjalp ham og sammen de tok steinen unna. \n\nNår de hadde ferdig spadet rundt steinen, så de en stor grotte under jorden. Bonden og forskeren snakket om hva de kunne fin"
+  },
+  {
+    "instruction": "Oversett frasen til en passende idiomatisk uttrykk.",
+    "input": "Skriv det ned før du glemmer det",
+    "output": "\"Write it down before you forget it.\""
+  },
+  {
+    "instruction": "Gjør den tredje setningen i denne teksten fet eller kursiv",
+    "input": "Artificial intelligence is the capability of a machine to imitate intelligent behavior. It is often used to automate repetitive tasks and make complex decisions.",
+    "output": "Artificial intelligence is the capability of a machine to imitate intelligent behavior. It is often used to automate repetitive tasks and make complex decisions."
+  },
+  {
+    "instruction": "Finn ordet som forekommer flest ganger i følgende setning.",
+    "input": "Katten i hatten kan løpe og hoppe.",
+    "output": "Ordet \"kan\" forekommer flest ganger i følgende setning."
+  },
+  {
+    "instruction": "Endre biordet i setningen til et mer effektivt ord.",
+    "input": "The data scientist worked quickly on the project.",
+    "output": "The data scientist worked efficiently on the project."
+  },
+  {
+    "instruction": "Tildel setningen til en kategori.",
+    "input": "The American bald eagle is an impressive bird of prey.",
+    "output": "Category: Wildlife and Nature"
+  },
+  {
+    "instruction": "Klassifiser følgende dyr i riktig kategori.",
+    "input": "ulv, løve, manet",
+    "output": "Ulv - grønneplanter\nLøve - dyr\nManet - dyr"
+  },
+  {
+    "instruction": "Lag en liste over handlinger som er nødvendige for å fullføre et prosjekt.",
+    "input": "Sett opp en nettside for en nettbasert bedrift",
+    "output": "1. Planlegging og utvikling av et virksomhetsspecifikt design\n2. Valg av programmer og teknologier som skal brukes i utviklingen av nettsiden\n3. Skrive innhold og arkitektur for nettsiden\n4. Design og utvikling av nettsiden\n5. Test av funksjonalitet og brukervenlighet\n6. Implementering av SEO-strategi\n7. Utvikling av en marketingstrategi for å promovere nettsiden\n8. Innlogging til servere og hosting\n9. Oppsett av sikkerhetssystemer for å skytte nettsiden mot hackere og andre potensielle risikofaktorer\n10. Utenforvekslingskontroll for å sikre at nettsiden fungerer som planlagt\n11. Oppsett av en administrasjonsside for å gjøre endringer på nettsiden enklere\n12. Utvikling av en brukerstøtteside for å hjelpe brukerne med problemer de kan ha med nettsiden\n13. Utvikling av en supportstr"
+  },
+  {
+    "instruction": "Generer en liste over minst tre mulige konsekvenser for en gitt handling.",
+    "input": "Å spise usunn mat",
+    "output": "1. Du kan få en hovedsjekk eller en sjukdom som er knyttet til matforhold.\n2. Du kan få en dårlig smak og kvalitet i maten du spiser.\n3. Du kan få en økt risiko for å få sykdommer som er knyttet til matforhold, som kolera eller salmonellen."
+  },
+  {
+    "instruction": "Velg en veldedighet og forklar hvorfor den er viktig.",
+    "input": "Veldedighet: St. Jude Children's Research Hospital.",
+    "output": "St. Jude Children's Research Hospital is a veldedig institutt som har gjort stor innflytelse på barnesundheden gjennom forskning og behandling av sykdommer hos barn. Dette er viktig for flere grunner:\n\n1. Barnesundheden: Barn er enkelte som ikke kan beskytte seg selv mot sykdommer og døden. St. Jude Children's Research Hospital har gjort stor innflytelse på barnesundheden ved å utvikle nye behandlingsmetoder og forskning som har hjulpet til å redusere dødeligheten hos barn med sykdommer.\n\n2. Forskning: St. Jude Children's Research Hospital er et av de viktigste barnesundhedsforskningstitlene i USA. De har gjort fremgangsmåter som har hjulpet til å oppnå bedre resultater i barnesundheden og har bidratt til å øke livsvarmen hos barn med sykdommer.\n\n3. Behandling: St. Jude Children's Research Hospital har også bidratt til å utvikle nye behandlingsmetoder som"
+  },
+  {
+    "instruction": "Fullfør følgende kode for å skrive ut summen av to tall",
+    "input": "a = 5\nb = 10\nprint(",
+    "output": "a + b)"
+  },
+  {
+    "instruction": "I denne oppgaven får du en setning og må foreslå en bedre måte å uttrykke samme mening på uten å endre den opprinnelige formuleringen.",
+    "input": "The report came to the conclusion that the project had failed.",
+    "output": "The project was deemed unsuccessful according to the report's findings."
+  },
+  {
+    "instruction": "Identifiser typen tekststruktur i følgende avsnitt.",
+    "input": "Mennesker har bodd på jorden i hundretusenvis av år. De har vært i stand til å bygge byer, utvikle vitenskap og teknologi, skape litteratur, kunst og musikk, og leve i relativ komfort. Til tross for denne imponerende prestasjonen, søker mennesker fortsatt etter svar på noen av livets største mysterier.",
+    "output": "Følgende avsnitt identifiseres som en kombinasjon av kronologisk og problematisk tekststruktur."
+  },
+  {
+    "instruction": "Gitt en stillingstittel, gi en kort beskrivelse av rollen.",
+    "input": "Data Scientist",
+    "output": "Rollen som Data Scientist inneholder arbeid med å analysere og interpretere data for å generere nytt kunnskap og informasjon. Dette kan inkludere arbeid med å utvikle og implementere statistiske modeller, skrive kode for dataanalyse, og presentere funn og resultater til andre. Data Scientists jobber ofte med store mengder komplekse data, og er derfor viktig for å hjelpe organisasjoner med å gjøre informasjonen mer synlig og brukbar."
+  },
+  {
+    "instruction": "Skriv en historie om noen som lærer å surfe.",
+    "input": "En ung jente ved navn Amelia hadde alltid vært fascinert av havet. Hun hadde alltid ønsket å lære å surfe.",
+    "output": "Et dag beslutte hun å ta seg til en surfklasse i nærheten. Hun var litt trepidant da hun kom inn og så de andre surferne på linje. Hun følte litt ut av sin plass, men hun var ikke til å gi opp.\n\nUnder klasseen fikk hun muligheten til å prøve ut surfplakken og hoppet inn i vannet. Hun følte litt usikker og litt overflødig, men hun tok seg tid til å tørre seg av og la kroppen bli varm.\n\nNår hun kom tilbake til linjen, fikk hun muligheten til å se på de andre surferne som riktig surfet. Hun så hvordan de riktig surfet og følte seg trygg og sikker i vannet. Hun følte litt frustrert og litt ut av sin plass, men hun beslutte å prøve igjen.\n\nHun tok en dypt snak og fikk seg til å stå på plakken. Hun følte litt usikker, men hun tok seg tid til å tørre seg av og la kroppen bli"
+  },
+  {
+    "instruction": "Beskriv hva som motiverer personer i følgende yrke.",
+    "input": "gründere",
+    "output": "Gründere er personer som er motivert av å opprette noe nytt og unikt i verden. De ønsker å løse en spesifikk problem eller oppleve en spesifikk markedsbehov, og de ønsker å gjøre dette på en innovativ måte. De er ofte motivert av å skape noe som kan ha en positiv innvending på verden og å oppleve oppfyllelse ved å se på resultatet av deres arbeid. De ønsker også å oppleve selvstendighet og frihet i deres jobb, og de ønsker å ha kontroll over sin egen tid og ressurser. De er ofte motivert av å oppleve en høy grad av selvuttrykk i deres jobb, og de ønsker å være i stand til å utvikle seg selv og sine evner."
+  },
+  {
+    "instruction": "Kommenter koden for å forklare hva den gjør.",
+    "input": "def checkPalindrome(arg):\n   if arg == arg[::-1]:\n      return True\n   else:\n      return False",
+    "output": "The function `checkPalindrome` takes an argument `arg` and checks whether it is a palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same backward as forward (e.g., \"racecar\" or \"level\"). \n\nThe function first checks if `arg` is equal to its reverse (`arg[::-1]`). If they are equal, then `arg` is a palindrome and the function returns `True`. Otherwise, `arg` is not a palindrome and the function returns `False`."
+  },
+  {
+    "instruction": "Bestem sannhetsverdien til påstanden.",
+    "input": "Alle katter er blå.",
+    "output": "Sannhetsverdien til påstanden \"Alle katter er blå\" er false. Det finnes katter av ulike farger, inkludert hvit, grå, brunt og farger i mellomranger."
+  },
+  {
+    "instruction": "Klassifiser følgende tekstsnutt i en av følgende kategorier: fiksjon, sport, vitenskap.",
+    "input": "Hun bøyde seg ned og plantet et kyss på pannen hans.",
+    "output": "Fiksjon"
+  },
+  {
+    "instruction": "Velg et tilfeldig substantiv fra følgende liste",
+    "input": "liste: hund, katt, fugl, bil",
+    "output": "Katt"
+  },
+  {
+    "instruction": "Tenk på en fengende slagord for et selskap.",
+    "input": "Selskap: Internet Security Service",
+    "output": "Slagord: \n1. Cybersecurity\n2. Protection\n3. Safeguarding\n4. Defense\n5. Shielding\n6. Guarding\n7. Defending\n8. Safeguard\n9. Protecting\n10. Defend"
+  },
+  {
+    "instruction": "Translate the given sentence into Norwegian Bokmål.",
+    "input": "\"Bonjour, comment allez-vous?\"",
+    "output": "\"Hei, hvordan går det?\""
+  },
+  {
+    "instruction": "Skriv om dette ordtaket med dine egne ord.",
+    "input": "A bad penny always turns up.",
+    "output": "A worthless coin never disappears."
+  },
+  {
+    "instruction": "Gjør en prediksjon om følgende datapunkt.",
+    "input": "Gjennomsnittet for aksjemarkedet den 15. mai",
+    "output": "Jeg er ikke i stand til å gjøre prediksjoner eller analyse av markedsdata. Dette krever kanskje en ekspert som kan analysere historisk data og tendenser for å gjøre en informert og akkurat prediksjon."
+  },
+  {
+    "instruction": "Konstruer en spørring for å søke etter følgende emne i en database.",
+    "input": "Søk etter artikler om etikken til kunstig intelligens.",
+    "output": "SELECT * FROM articles WHERE topic = \"Artificial Intelligence Ethics\""
+  },
+  {
+    "instruction": "Oppsummer artikkelen om personvern på under 50 ord.",
+    "input": "[Input: Lenke til artikkel om personvern]",
+    "output": "Artiklen om personvern på under 50 ord beskriver de viktigste aspektene av personvern og hvordan det er viktig å behandle personopplysninger på en sikker og transparent måte. Det fremhever også de forskjellige rettighetene som personer har i forhold til deres personopplysninger, inkludert retten til å få opplysninger om hvem som har tilgang til dem og hvilken informasjon som er tilgjengelig. Artiklen avslutter med noen generelle tips for hvordan personvern kan behandles på en sikker og effektiv måte."
+  },
+  {
+    "instruction": "Skriv om setningen for å fremheve dens hovedpoeng.",
+    "input": "Jeg må fullføre oppgaven så snart som mulig.",
+    "output": "Oppgaven må fullføres så snart som mulig."
+  },
+  {
+    "instruction": "Slett følgende unødvendige ord fra denne setningen: \"Those people that actually qualified for the position.\"",
+    "input": "Those people that actually qualified for the position.",
+    "output": "People who qualified for the position."
+  },
+  {
+    "instruction": "Lag en funksjon som kan komprimere en tekststreng.",
+    "input": "Tekststreng: \"Dette er en tilfeldig streng. Den har ingen annen hensikt enn å teste denne funksjonen.\"",
+    "output": "Her er en funksjon i Python som kan komprimere en tekststreng ved å fjerne alle mellomrom og små bokstaver:\n\n```python\ndef komprimer_tekst(tekst):\n    komprimeret_tekst = \"\"\n    for tegn in tekst:\n        if tegn.isalpha():\n            komprimeret_tekst += tegn.upper()\n    return komprimeret_tekst\n\n# Eksempel på bruk\ntekst = \"Dette er en tilfeldig streng. Den har ingen annen hensikt enn å teste denne funksjonen.\"\nkomprimeret_tekst = komprimer_tekst(tekst)\nprint(komprimeret_tekst)  # Utgave: DETTENENETILFELDIGSTRENGDENHAVINGENENHENTENHENSITENNATESTEDETTEFUNKJONEN\n```\n\nDenne funksjonen itererer gjennom hvert tegn i teksten og sjekker om tegnet er en bokstav med hjelp av metoden `isalpha()`. Hvis tegnet er en bokstav, legges det til i en ny stre"
+  },
+  {
+    "instruction": "Generer et 4-sifret passord basert på følgende kriterier:",
+    "input": "Må inneholde minst ett tall, en stor bokstav, en liten bokstav og et spesialtegn.",
+    "output": "1. 7@BcD\n2. 9#GhJ\n3. 5&KlN\n4. 8*PqR"
+  },
+  {
+    "instruction": "Design et kundelojalitetsprogram for netthandlere med den gitte informasjonen.",
+    "input": "Målgruppe: Millennial-shoppere",
+    "output": "Målgruppen millennial-shoppere er en populær målgruppe for netthandlere. Her er et et kundelojalitetsprogram som kan være nyttig:\n\nProgramnavn: \"Millennial Loyalty\"\n\nProgrambeskrivelse: \"Vi er kjent for å tilby gode priser og en enkel og brukervennlig opplevelse på vår nettside. Men vi ved at lojalitet er viktig for å beholde våre kunder. Dette programmet er designet spesielt for millennial-shoppere som ønsker å få enda bedre tilbud og opplevelser fra oss.\"\n\nProgramdetaljer:\n\n1. Loyaltetspoeng: Hver gang du kjøper noe på vår nettside vil du få tilkjentloyaltetspoeng basert på beløpset. Du kan bruke disse poengene senere på vår nettside for å få rabatter eller gratis produkter.\n\n2. Månedlig nyhetsbrev: Vi vil sende ut en månedlig nyhetsbrev med nyheter om våre produktlinjer, spesialrabatter og"
+  },
+  {
+    "instruction": "Erstatt plassholderordene med en liste over 8 frukter",
+    "input": "<placelholder1> , <placelholder2>, <placelholder3>, <placelholder4>, <placelholder5>, <placelholder6>, <placelholder7>, <placelholder8>",
+    "output": "Here is the list of 8 fruits:\n\n1. Apple\n2. Banana\n3. Orange\n4. Pineapple\n5. Mango\n6. Grapes\n7. Kiwi\n8. Watermelon"
+  },
+  {
+    "instruction": "Finn navnet på forfatteren av denne boken.",
+    "input": "Bok: The Cat in the Hat",
+    "output": "Forfatter: Dr. Seuss"
+  },
+  {
+    "instruction": "Generer fire ord som samsvarer med følgende kontekst:",
+    "input": "En solfylt dag",
+    "output": "1. \"The sun is shining bright today, it's a beautiful day to be outside.\"\n2. \"I love the way the sunlight dances on the water today, it's so peaceful.\"\n3. \"It's a perfect day for a picnic in the park, with the sun shining down on us.\"\n4. \"The warmth of the sun on my skin feels amazing today, I'm so grateful for this beautiful day.\"\n5. \"Today is a great day to go for a long walk and soak up some vitamin D from the sun.\""
+  },
+  {
+    "instruction": "Klassifiser denne nyhetsoverskriften.",
+    "input": "Apple lanserer ny iPhone",
+    "output": "Technology News"
+  },
+  {
+    "instruction": "Skriv et unnskyldningsbrev fra en kunde til et selskap.",
+    "input": "Kjære Selskap, \n\nJeg beklager så mye for min frekke oppførsel overfor din kunderepresentant forrige uke da jeg prøvde å returnere et produkt.",
+    "output": "Jeg er klar over at min handling var uacceptabel og at det gjorde deg og ditt selskap usikkert. Jeg vil gjerne unnskytte deg og ditt selskap for eventuelle skader eller usikkerheter som min frekke oppførsel kan ha skapet.\n\nJeg vil også takke deg for din toleranse og for å ha hjelpet meg med å finne en løsning på problemet. Jeg er klar over at det er viktig at vi alle følger reglene og standardene i vår interaksjon med hverandre, og jeg vil gjerne ta ansvar for min frekke handling.\n\nJeg ber deg om å vise meg enkelthet og toleranse i fremtiden, og jeg vil gjerne være en lojal kunde for ditt selskap i fremtiden. Jeg setter stor pris på ditt selskaps produkter og tjenester, og jeg vil gjerne fortsette å bruke dem i fremtiden.\n\nMed vennlig hilsen,\n[Ditt navn]"
+  },
+  {
+    "instruction": "Lag en horoskop for et gitt stjernetegn.",
+    "input": "Jomfruen",
+    "output": "Her er en horoskop for Jomfruen:\n\nJomfruen er en sterk og selvstendig tegn, som er kjent for sin høyeste moral og et høyt standard for rettferdighet. Dette tegnet er også kjent for sin evne til å skape harmoni og balance i alt de gjør. \n\nI denne uken kan du føle deg spesielt inspirert og motivert, og det kan være en god tid å jobbe på noe som er viktig for deg. Du kan også føle deg spesielt kreativ og inspirert, så det kan være en god tid å uttrykke din kunst eller skrive. \n\nMen merk at Jomfruen også kan være en litt skeptisk og kritisk tegn, så det kan være en god idé å være opmærksom på dine tanker og følelser, og ikke la dem ta over kontrollen. \n\nGenerelt kan du forvente en positiv og lykkelig uke, med mange gode muligheter og opplevelser. Husk å være takknemlig for hva du har, og la din positivitet og h"
+  },
+  {
+    "instruction": "Kombiner de to ideene i setningen.",
+    "input": "Fjellklatring er vanskelig. Det krever mye trening.",
+    "output": "Det krever mye trening å gjennomføre fjellklatring."
+  },
+  {
+    "instruction": "Legg til følgende ord til en gitt instruksjon.",
+    "input": "\"Please double-check your\"",
+    "output": "\"Please double-check your spelling and grammar before submitting the document.\""
+  },
+  {
+    "instruction": "Skriv et maskinlæringsprogram for å oppdage plagiering i essays.",
+    "input": "Essaytekst:\n\nEt essay er en skriftlig tekst som formidler forfatterens mening om et emne. Det består av en kombinasjon av fakta og tanker om emnet som behandles.",
+    "output": "Maskinlæringsprogram for å oppdage plagiering i essays:\n\n1. Oppretthold en database med tidligere essays som har blitt skrevet av forskjellige forfattere.\n2. Analyser hvert ord og setning i den nye essayen mot databaseen.\n3. Hvis ordene eller setningene i essayen er identiske eller likt ordene i en annen essay i databaseen, kan det antyde plagiering.\n4. Bruk maskinlæringsalgoritmer for å analysere tekststrukturer og stilistiske merknader i essayen.\n5. Hvis essayen inneholder mange ord eller setninger som er identiske eller likt ordene i en annen essay i databaseen, kan det antyde plagiering.\n6. Oppsett en alarm som sender en melding til forfatteren hvis plagiering blir funnet.\n7. Oppsett en alarm som sender en melding til en administrator hvis plagiering blir funnet.\n8. Oppsett en alarm som sender en melding til en professor hvis plagiering blir funnet.\n9. Oppsett en alarm som sender en melding til"
+  },
+  {
+    "instruction": "Generer et merkenavn fra de gitte adjektivene",
+    "input": "Adjektiver: smidig, kreativ, vennlig",
+    "output": "Merknavn: SmidigKreativVennlig"
+  },
+  {
+    "instruction": "Konverter denne tallsekvensen til en dato.",
+    "input": "10 20 2020",
+    "output": "Denne tallsekvensen kan konverteres til en dato på forskjellige måter, avhengig av hvilken format den skal være i. Hvis vi antar at tallene representerer dagen, måneden og året, kan den konverteres til følgende dato:\n\n20. februar 2020\n\nHvis vi antar at tallene representerer året, måneden og dagen, kan den konverteres til følgende dato:\n\n2020. februar 20\n\nHvis vi antar at tallene representerer året, måneden og dagen, kan den konverteres til følgende dato:\n\n2020. 20. februar"
+  },
+  {
+    "instruction": "Diagnostiser problemet med en lyspære basert på følgende beskrivelse.",
+    "input": "Lyspæren flimrer, men slår ikke på.",
+    "output": "Det kan være flere årsaker til at en lyspære flimrer, men slår ikke på. Nåværende problem kan ha følgende årsaker:\n\n1. Ufullstendig eller feilaktig kablett: Det kan være en feil i kablettet som forhindrer lyspæren fra å få strøm. Sjekk kablettet og se om det er korrekt forbundet.\n\n2. Feilaktig lyspære: Hvis lyspæren er feilaktig, kan den ikke lyse. Sjekk om lyspæren er funksjonell ved å prøve den i en annen sted.\n\n3. Feilaktig strøm: Hvis strømmen er feilaktig, kan lyspæren ikke lyse. Sjekk strømmen ved å bruke en strømmeter eller sjekk strømskeden.\n\n4. Feilaktig transformer: Hvis transformeren er feilaktig, kan den ikke forsyne lyspæren med strøm. Sjekk transformeren og se om den"
+  },
+  {
+    "instruction": "Klassifiser følgende blomsterarter som enten ville eller hybride blomster.",
+    "input": "Iris germanica",
+    "output": "Hybrid blomster"
+  },
+  {
+    "instruction": "Omskriv denne setningen for å fjerne tvetydighet.",
+    "input": "Jenta malte med en børste på ettermiddagen.",
+    "output": "Jenta malte med en børste på ettermiddagen."
+  },
+  {
+    "instruction": "Klassifiser den gitte sykehuspoengsummen som karakter A, B, C eller D.",
+    "input": "4.7",
+    "output": "Karakter A."
+  },
+  {
+    "instruction": "Rengjør den gitte dataen slik at den er egnet for en maskinlæringsmodell.",
+    "input": "[1.2, 0.6, a, 0.25, b, c, 0.7]",
+    "output": "[1.2, 0.6, 0.8, 0.25, 0.9, 0.3, 0.7]"
+  },
+  {
+    "instruction": "Identifiser skrivefeil i teksten og rett dem opp.",
+    "input": "Jeg nytet shopaing senteret grundig.",
+    "output": "Jeg nytte et shopping senter grundig."
+  },
+  {
+    "instruction": "Klassifiser disse to ordene som synonymer eller antonymer.",
+    "input": "Cheerful | Sad",
+    "output": "Cheerful and sad are antonyms."
+  },
+  {
+    "instruction": "Forklar hvorfor følgende hendelse skjedde",
+    "input": "Hendelse: Aksjemarkedet krasjet",
+    "output": "Jeg er ikke i stand til å forkaste hensyn til en spesifik hendelse uten mer informasjon. Hvis du kan gi meg mer kontekst om hendelsen, kan jeg hjelpe deg med å forklare hvorfor den skjedde."
+  },
+  {
+    "instruction": "Løs de to likningene.",
+    "input": "3x + 5y = 1\n6x + 4y = 2",
+    "output": "Vi kan løse disse likningene ved å bruke metoden for subtraksjon eller addisjon. Vi kan også bruke metoden for substitution eller eliminering. Her vil jeg bruke metoden for subtraksjon:\n\nVi starter med å multiplisere den første likningen med 2 og den andre likningen med -3 slik at vi kan subtrahere dem:\n\n(3x + 5y) * 2 = 1 * 2\n(6x + 4y) * (-3) = 2 * (-3)\n\nDette gir oss:\n\n6x + 10y = 2\n-18x - 12y = -6\n\nNå kan vi subtrahere den andre likningen fra den første likningen:\n\n(6x + 10y) - (-18x - 12y) = 2 - (-6)\n6x + 10y + 18x + 12y = 2 + 6\n24x + 22y = 8\n\nNå har vi en ny likning som inneholder bare x og y. Vi kan løse denne likningen ved å divid"
+  },
+  {
+    "instruction": "Kategoriser denne artikkelen som enten science fiction eller krim thriller",
+    "input": "En mann oppdager en mystisk svart boks i farens hjem som egentlig er en tidsmaskin som lar ham endre fortiden.",
+    "output": "Science fiction"
+  },
+  {
+    "instruction": "Beskriv hendelsen på en kort og levende måte",
+    "input": "En kvinne gikk nedover gaten da plutselig en bil traff henne.",
+    "output": "En kvinne gikk nedover gaten da plutselig en bil traff henne."
+  },
+  {
+    "instruction": "Klassifiser følelsen i setningen fra 1 til 5, der 1 er negativ og 5 er positiv.",
+    "input": "Det var en god opplevelse.",
+    "output": "4"
+  },
+  {
+    "instruction": "Konstruer en setning ved å bruke minst tre av de gitte ordene.",
+    "input": "Feet, sykkel, tante",
+    "output": "Min tante syklerte med meg i parken og vi spiste noe i en cafe med høyeste veggfeet."
+  },
+  {
+    "instruction": "Gitt den gitte setningen, omskriv den i aktiv form.",
+    "input": "Denne oppgaven har blitt fullført av meg.",
+    "output": "Jeg har fullført denne oppgaven."
+  },
+  {
+    "instruction": "Basert på den gitte inndataparagrafen, gi en oppsummering av innholdet.",
+    "input": "Antall skogbranner har økt dramatisk det siste tiåret på grunn av klimaendringer. Brannene sprer seg ofte i avsidesliggende områder og infrastrukturen kan ikke kontrollere dem. Konsekvensene av disse brannene fører til tap av flora og farlig luftkvalitet.",
+    "output": "Inndataparagraf: Basert på den gitte inndataparagrafen, gir en oppsummering av innholdet som følger:\n\n1. Antall skogbranner har økt dramatisk det siste tiåret.\n2. Øykenhetene sprer seg ofte i avsidesliggende områder.\n3. Infrastrukturen kan ikke kontrollere brannene.\n4. Konsekvensene av disse brannene fører til tap av flora.\n5. Luftkvaliteten blir farlig."
+  },
+  {
+    "instruction": "Legg til 2 desimaler etter et tall.",
+    "input": "99",
+    "output": "99.00"
+  },
+  {
+    "instruction": "Du har fått en kode, du må foreslå en forbedring for ytelsen.",
+    "input": "int sum = 0; \nfor (int i = 0; i < 10; i++) { \n   sum = sum + i; \n}",
+    "output": "En mulig forbedring for ytelsen kan være å bruke en accumulator variabel istedenfor å oppdatere summen på hvert iterasjon. Dette kan gjøres ved å skrive koden som følger:\n\nint accumulator = 0;\nfor (int I = 0; I < 10; I++) {\n   accumulator += I;\n}\n\nDette vil resultere i mindre beregninger per iterasjon, og dermed en bedre ytelse."
+  },
+  {
+    "instruction": "Basert på den gitte informasjonen, generer en hypotese om hvorfor elefanter har snabler.",
+    "input": "Elefanter har snabler som brukes til å gripe mat og drikke vann.",
+    "output": "Hypotese: Elefanter har snabler for å unngå å spise eller drikke noe som kan være skadelig eller uhyggelig for dem."
+  },
+  {
+    "instruction": "Oversett engelsk tekst til fransk.",
+    "input": "The sun was shining brightly in the sky.",
+    "output": "Le soleil brillait dans le ciel."
+  },
+  {
+    "instruction": "Kombiner setningene (merket med 1 og 2) til en enkelt setning.",
+    "input": "1. Linda ønsket å male huset sitt.\n2. Hun ba John om å hjelpe henne.",
+    "output": "Linda ønsket å male huset sitt, men hun ba John om å hjelpe henne."
+  },
+  {
+    "instruction": "Omskriv følgende setning til en kortere setning.",
+    "input": "Han har lest utallige bøker og magasiner mens han var på kurset.",
+    "output": "Han har læst mange bøker og magasiner på kurset."
+  },
+  {
+    "instruction": "Sammenlign de to gitte objektene eller ideene.",
+    "input": "Å lese en bok og å gå på kino.",
+    "output": "De to gitte objektene eller ideene er å lese en bok og å gå på kino. \n\nÅ lese en bok er en aktivitet som krever koncentration og fokus. Det er en stilling som gir deg muligheten til å dypne deg i en verden av tanker og ideer. Boken kan være en fortelling, en roman eller en non-fiction bok som gir deg kunnskap og opplysninger om et bestemt emne. \n\nÅ gå på kino er en mer sosial aktivitet. Det er en måte å ta en pause fra hverdagen og se en film sammen med andre mennesker. Det er en måte å dypne deg i en annen verden og oppleve forskjellige historier og perspektiver. \n\nSammenlignet med hverandre, er å lese en bok en mer isolert og personlig aktivitet, mens å gå på kino er en mer sosial og interaktiv aktivitet. Boken gir deg muligheten til å dypne deg i en verden av tanker og ideer, mens kinospeilet gir deg muligheten til å oppleve forskjellige histor"
+  },
+  {
+    "instruction": "Sorter denne listen med tall i synkende rekkefølge",
+    "input": "7, 4, 5, 9",
+    "output": "9, 7, 5, 4"
+  },
+  {
+    "instruction": "Vurder om denne uttalelsen er et eksempel på en klassisk logisk feilslutning.",
+    "input": "Hvis vi ikke aksepterer flere flyktninger, vil de oversvømme grensene våre og ta jobbene våre.",
+    "output": "Denne uttalelsen kan være en eksempel på en klassisk logisk feilslutning, da den antar at det er en direkte forhold mellom antallet av flyktninger og konkurransesituasjonen i arbeidsmarkedet. Det er imidlertid ingen direkte forhold mellom disse to faktorene, og det er mulig å finne alternativer som kan hjelpe både flyktninger og lokale befolkningen."
+  },
+  {
+    "instruction": "Beregn gjennomsnittsverdien fra de gitte tallene",
+    "input": "2, 4, 6, 9",
+    "output": "Gjennomsnittsverdi = (2 + 4 + 6 + 9) / 4 = 5.25"
+  },
+  {
+    "instruction": "Navngi fem personligheter relatert til informatikk.",
+    "input": "<none>",
+    "output": "1. Analytisk tänkande: Detta innebär att du kan analysera och förstå komplexa problem och data, och använda denna kunskap för att lösa problem och göra beslut.\n\n2. Kreativitet: Detta innebär att du kan utveckla nya idéer och lösningar, och använda din kreativitet för att lösa problem och skapa nytt värde.\n\n3. Kompjuterteknik: Detta innebär att du kan använda olika teknologier och programvara för att arbeta med data och information.\n\n4. Kommunikation: Detta innebär att du kan kommunicera effektivt med andra, inklusive tekniker och non-tekniker, och förklara tekniska begrepp och koncept på ett enkelt sätt.\n\n5. Förståelse för programmering: Detta innebär att du kan skriva och förstå kod, och använda programmeringsspråk för att utveckla applikationer och system.\n\n6. Problemlösning: Detta innebär att du kan identifiera och"
+  },
+  {
+    "instruction": "Slett de ekstra mellomrommene i følgende setning, og skriv ut den rensede setningen.",
+    "input": "The quick     brown     fox  jumps over  the   lazy   dog",
+    "output": "The quick brown fox jumps over the lazy dog"
+  },
+  {
+    "instruction": "Velg en ledetekst fra følgende liste og gi en passende inndata.",
+    "input": "Ledetekst: \"Forestill deg en overraskelsesfest du deltok på.\"",
+    "output": "Inndata: Jeg husker det som en fantastisk opplevelse. Alle var så glade og lykkelige, og det var så mange spesielle momenter vi deltok sammen. Jeg husker spesielt når vi tok bildene med kameraet vårt og de fantastiske musikkspelene vi hørte. Det var en fest vi ville huske for evig."
+  },
+  {
+    "instruction": "Identifiser talerens tone som positiv, negativ eller nøytral.",
+    "input": "\"Dette prosjektet er en viktig milepæl for oss og vi bør feire det!\"",
+    "output": "Talerens tone er positiv."
+  },
+  {
+    "instruction": "I den gitte teksten, identifiser personen som er omtalt.",
+    "input": "Michelle Obama er en amerikansk advokat, universitetsadministrator og forfatter som var USAs førstedame fra 2009 til 2017.",
+    "output": "Personer som er omtalt i teksten: Michelle Obama"
+  },
+  {
+    "instruction": "Sett følgende språk i rekkefølge etter deres tidligste dokumenterte opprinnelse.",
+    "input": "Hebraisk, Sanskrit, Gresk",
+    "output": "Hebraisk, Sanskrit, Gresk"
+  },
+  {
+    "instruction": "Fra inputen, foreslå den passende handlingen.",
+    "input": "Jeg har problemer med å komme meg på jobb i tide på grunn av tung trafikk.",
+    "output": "Foreslått handling: \n1. Oppdatere tidligere planlagte tider for å ta hensyn til trafikk.\n2. Bruke alternativ transportmidler som sporet eller taxi.\n3. Oppdatere informasjon om trafikk for å finne alternativer.\n4. Ta en tidligere start for å unngå traffikken.\n5. Bruke apper som kan gi informasjon om trafikk og alternativer."
+  },
+  {
+    "instruction": "Generer en musikalsk akkompagnement for den gitte diktet.",
+    "input": "Sommeren er en søt sommernatt",
+    "output": "Sommeren er en søt sommernatt,\nMed solen som stråler og vannet som glimter.\nVi går på stranden med våre kjole,\nOg spiser friske frukt og drucker koke.\n\nVi sjekker opp havet og se på fiskerne,\nSom sliter seg mot strømmen.\nVi lyser opp havet med lysbåtene,\nOg danser til musikken i natten.\n\nSommeren er en søt sommernatt,\nMed solen som stråler og vannet som glimter.\nVi tar av oss klærne og slappner av,\nOg spiser friske frukt og drucker koke.\n\nVi sjekker opp havet og se på fiskerne,\nSom sliter seg mot strømmen.\nVi lyser opp havet med lysbåtene,\nOg danser til musikken i natten.\n\nSommeren er en søt sommernatt,\nMed solen som stråler og vannet som glimter.\nVi tar av oss klærne og slappner av,\nOg spiser friske frukt og"
+  },
+  {
+    "instruction": "Forklar betydningen av den historiske hendelsen som er gitt.",
+    "input": "Magna Carta",
+    "output": "Magna Carta var en viktig historisk hendelse som ble underskrevet i 1215 i England. Den var en kontrakt mellom den engelske kongen Johan og sine lande, og den inneholdt en rekke rettslige garanter for de engelske borgere. \n\nEn av de mest viktige delene av Magna Carta var artikkel 39, som sa at ingen person, uansett hvem han eller hun var, skulle bli dømt eller straffet uten å ha blitt hørt på sin side av en rettshåndtering først. Dette var et viktig skritt mot en mer rettferdig og demokratisk samfunnslag.\n\nMagna Carta var også en viktig referansepunkt for andre landes rettssystemer, inkludert USA's Constitution. Denne dokumentet har siden blitt anerkjent som en av de viktigste rettssystemene i verden, og det har vært en inspirasjon for rettssystemer i mange andre land."
+  },
+  {
+    "instruction": "Oppsummer denne artikkelen om matematikken bak filmproduksjon.",
+    "input": "Matematikken bak filmproduksjon er en kompleks blanding av kunst, vitenskap og håndverk. Hollywood-profesjonelle studerer matematikken bak å bringe filmer til live gjennom produksjon for å forstå hele prosessen med å få en film fra manuskriptet og ut i kinoene.",
+    "output": "Matematikken bak filmproduksjon inkluderer matematiske modeller og beregninger som hjelper med å planlegge og utføre produksjoner. Dette kan inkludere beregning av budgetter, tidslinjer, og ressurser. Matematikken også spiller en viktig rolle i effektproduksjon, hvor programmer som Adobe After Effects brukes til å lage spesialverdier og effekter. Matematikken kan også brukes til å lage 3D-modellering og animasjon, som er nødvendig for å lage moderne film."
+  },
+  {
+    "instruction": "Forklar hvorfor denne frasen er ironisk",
+    "input": "\"Han viste stor tilbakeholdenhet i beslutningen sin\"",
+    "output": "Denne frasen er ironisk fordi \"tilbakeholdenhet\" normalt betyr at man er skeptisk eller mispleget, mens \"beslutning\" betyr at man har gjort en avgjørelse eller valg. Dermed er det uvanlig å bruke begge ordene sammen i denne kombinasjonen, og det skaper en spesiell humor eller ironi."
+  },
+  {
+    "instruction": "Konstruer en setning som beskriver en bok",
+    "input": "Boktittel: The Great Gatsby",
+    "output": "\"The Great Gatsby\" is a classic novel that explores themes of love, wealth, and the American Dream through the eyes of its protagonist, Jay Gatsby."
+  },
+  {
+    "instruction": "Design en treningsrutine gitt noen kardiovaskulære og styrkeøvelser.",
+    "input": "Kardiovaskulære øvelser: hopping tau og løping\nStyrkeøvelser: push-ups og crunches",
+    "output": "Hopping tau: Start med å hoppe på en sted, så hopper du tilbake til startposisjonen. Gjenta 10-15 ganger.\nLøping: Gå ut og løp for 30-60 sekunder, så stopper du og rastar for 15-30 sekunder. Gjenta 10-15 ganger.\nPush-ups: Start med å knuse dine hender sammen under din bryst, så nedover mot jorden. Gjenta 10-15 ganger.\nCrunches: Ligg på rygg, håndene bak hodet og kna knekkene. Opplevere hodene mot knaene, så ned mot knaene. Gjenta 10-15 ganger."
+  },
+  {
+    "instruction": "Oppsummer en gitt avisartikkel",
+    "input": "\"Kan bærbar teknologi hjelpe mot ensomhet?\"",
+    "output": "En ny studie viser at bærbar teknologi kan være en effektiv måte å bekjempe ensomheten på. Avhengig av hvilken teknologi som brukes, kan det skape en følelse av tilknytning og samfunnsmedlemmehet. Dette kan være særlig viktig for de eldre befolkningen, som ofte er mer isolert og har mindre muligheter til å interagere med andre mennesker."
+  },
+  {
+    "instruction": "Oppsummer hovedargumentet i følgende blogginnlegg:",
+    "input": "Dette innlegget vil diskutere konsekvensene av ansiktsgjenkjenning på vår personvern og dens vidtrekkende implikasjoner.",
+    "output": "Hovedargumentet i denne blogginnlegg er at ansiktsgjenkjenning kan ha negative konsekvenser for vår personvern og kan føre til vidtrekkende implikasjoner."
+  },
+  {
+    "instruction": "Lag et spørsmål som matcher følgende svar.",
+    "input": "Hovedstaden i Frankrike er Paris.",
+    "output": "Hva er hovedstaden i Frankrike?"
+  },
+  {
+    "instruction": "Detaljer 5 måter å forbedre den gitte situasjonen på.",
+    "input": "Interaksjoner mellom kunder og ansatte",
+    "output": "1. Økende kommunikasjon: En av de mest viktigste måtene å forbedre interaksjonen mellom kunder og ansatte er ved å øke kommunikasjonen. Dette kan gjøres ved å tilby trening i kommunikasjon, samt å støtte ansatte i å snakke med kunder på en positiv og effektiv måte.\n\n2. Bedre service: En annen måte å forbedre interaksjonen mellom kunder og ansatte er ved å sikre at service er bedre. Dette kan gjøres ved å tilby trening i service, samt å støtte ansatte i å følge serviceprinsippet \"kunden er alltid rett\".\n\n3. Mer engasjert ansatte: En annen måte å forbedre interaksjonen mellom kunder og ansatte er ved å sikre at ansatte er mer engasjert. Dette kan gjøres ved å tilby trening i jobboppføring, samt å støtte ansatte i å føle seg oppgitt og involvert i arbeidet.\n\n4. Mer til"
+  },
+  {
+    "instruction": "Simuler en grunnleggende datamaskinlogikk ved hjelp av de gitte boolske betingelsene.",
+    "input": "A && B",
+    "output": "Her er et eksempel på hvordan vi kan simulere en grunnleggende datamaskinlogikk ved hjelp av boolske betingelsene:\n\n```python\n# Definer to variabler som kan ha verdier true eller false\na = True\nb = False\n\n# Bruk en if-setning for å sjekke om begge variablene er true\nif a and b:\n    print(\"Begge variablene er true\")\nelse:\n    print(\"Noen eller begge variablene er false\")\n\n# Opprett en ny variabel som er true hvis begge variablene er true\nc = a and b\n\n# Skriv ut verdien av variabelen c\nprint(c)\n```\n\nI dette eksemplet bruker vi booleansk logikk til å sjekke om begge variablene `a` og `b` er true. Hvis begge variablene er true, så skriver vi ut en melding som bestemmer dette. Vi oppretter også en ny variabel `c` som er true hvis begge variablene `a` og `b` er true, og skriver ut verdien av denne variabel"
+  },
+  {
+    "instruction": "Gitt en beskrivelse av et datamaskinsystem, design en brukergrensesnitt med minst 4 funksjoner.",
+    "input": "Datamaskinsystemet er et biblioteksystem.",
+    "output": "Biblioteksystemet skal ha følgende funksjoner:\n\n1. Innlogging: Brukere kan logge inn med brukernavn og passord for å tilgang til systemet.\n\n2. Søk: Brukere kan søke etter bøker ved å skrive inn tittel eller forfatter.\n\n3. Reservasjoner: Brukere kan reservere bøker som de ønsker å lese.\n\n4. Utlevering: Brukere kan utlevere bøker som de har reservert.\n\nBrukeren vil også ha tilgang til følgende informasjon:\n\n1. Bokinformasjon: Informasjon om bøker som er i biblioteket inkludert tittel, forfatter, utgiver, utgivelsesår og antall eksemplarer.\n\n2. Brukerinformasjon: Informasjon om brukerne inkludert navn, adresse, telefonnummer og e-postadresse.\n\n3. Reservasjonsinformasjon: Informasjon om reservasjoner inkludert boktittel, reserveringsdato og utleveringsdato.\n\n4. Utleveringsinformasjon: Informasjon om utlever"
+  },
+  {
+    "instruction": "Omskriv setningen ved å bruke enklere ord.",
+    "input": "He adroitly maneuvered around the roadblock.",
+    "output": "He skillfully avoided the roadblock."
+  },
+  {
+    "instruction": "Gitt en liste over byer, generer en liste over deres tilsvarende land.",
+    "input": "New York, Tokyo, Cairo",
+    "output": "New York - USA\nTokyo - Japan\nCairo - Egypt"
+  },
+  {
+    "instruction": "Gjenskap setningen ved å lage en oppgave som kan føre til dette svaret.",
+    "input": "The coffee mug was empty.",
+    "output": "Oppgave: \nWhat happened to the coffee in the mug?"
+  },
+  {
+    "instruction": " Ranger de gitte selskapene etter lønnsomhet.",
+    "input": "Google, Amazon, Apple",
+    "output": "og Microsoft er noen av de største og mest lönsmekke selskapene i verden. De har alle stor innholdsløsning og teknologi som gir dem mulighet til å oppnå høyere inntekt og profit. Google har en av de største sømotorer i verden, som gir dem mulighet til å samle data om brukere og deres søk. Dette hjelper dem med å tilby relevante reklamemål og publisert innhold, som gir dem inntekt. Amazon har en av de største e-handelsplattformene i verden, som gir dem mulighet til å selge produkter og tjenester på en skala som ikke mange andre kan oppnå. Apple har en av de mest populære smartphone- og tablettebrands i verden, som gir dem mulighet til å salg av hardware og software. Microsoft har en av de største operativsystemene i verden, som gir dem mulighet til å salg av software og tjenester."
+  },
+  {
+    "instruction": "Legg til to adjektiver som beskriver karakteren i historien.",
+    "input": "Han var en modig utforsker.",
+    "output": "Han var en intressent utforsker."
+  },
+  {
+    "instruction": "Finn det lengste ordet i følgende setning.",
+    "input": "Det er en fantastisk solfylt dag.",
+    "output": "Solfylt"
+  },
+  {
+    "instruction": "Sett inn en gitt verdi på slutten av den gitte lenkede listen.",
+    "input": "Linked List = 8 -> 4 -> 6\nValue = 2",
+    "output": "New Linked List = 8 -> 4 -> 6 -> 2"
+  },
+  {
+    "instruction": "Skriv en tweet om følgende tema.",
+    "input": "Motivasjon",
+    "output": "\"Motivation is the key to unlocking your full potential. Don't let fear or doubt hold you back. Keep pushing forward and never give up on your dreams.\" #motivation #nevergiveup #dreamscometrue"
+  },
+  {
+    "instruction": "Gitt navnet på en plante, beskriv stellinstruksjonene.",
+    "input": "Money Tree",
+    "output": "Navn: Money Tree\n\nStellinstruksjonene:\n\n1. Få en stor pot med en gyllen eller brunt bakgrunn.\n2. Tegn en stor træstokk i midten av poten.\n3. Tegn en liten træstokk ved siden av den store træstokken.\n4. Tegn en liten træstokk under den store træstokken.\n5. Tegn en liten træstokk ved siden av den litte træstokken.\n6. Tegn en liten træstokk under den litte træstokken.\n7. Tegn en liten træstokk ved siden av den andre litte træstokken.\n8. Tegn en liten træstokk under den andre litte træstokken.\n9. Tegn en liten træstokk ved siden av den tredje litte træstokken.\n10. Tegn en liten træstokk under den tredje litte træstokken.\n11. Teg"
+  },
+  {
+    "instruction": "Besvar en quiz-spørsmål",
+    "input": "Hvem malte \"Stjernenatt\"",
+    "output": "Jeg beklager, men jeg har ikke nok informasjon om hvem som malte \"Stjernenatt\". Kan du vennligst gi meg mer kontekst eller spesifikk informasjon om spørsmålet ditt?"
+  },
+  {
+    "instruction": "Skriv om følgende dikt, og behold den opprinnelige grammatikken og rimstrukturen, men endre innholdet.",
+    "input": "Roser er røde,\nFioler er blå,\nSukker er søtt,\nOg det er du og.",
+    "output": "Kjøtt er rødt,\nSkjermer er grå,\nBittertall er sult,\nMen du er min høyt."
+  },
+  {
+    "instruction": "Gitt en liste over hendelser, klassifiser hver hendelse som enten en arbeids- eller fritidshendelse.",
+    "input": "Handle på matbutikken, Delta i et bryllup, Gå på kino",
+    "output": "Arbeids-hendelser: \n- Handle på matbutikken \n\nFritidshendelser:\n- Delta i et bryllup \n- Gå på kino"
+  },
+  {
+    "instruction": "Du får en tekst, og du må redigere den og gjøre den grammatisk korrekt med riktig tegnsetting og riktig stor bokstav.",
+    "input": "eksempel på en dårlig feil i denne setningen ikke bruk eksempel",
+    "output": "Eksempel på en dårlig feil i denne setningen: \"Du får en tekst, og du må redigere den og gjøre den grammatisk korrekt med riktig tegnsetting og riktig stor bokstav.\""
+  },
+  {
+    "instruction": "Gi en statistisk analyse av følgende data.",
+    "input": "Alder: 18, 21, 22, 25, 26, 27",
+    "output": "Her er statistisk analyse av dataene:\n\nMiddelverdi: (18 + 21 + 22 + 25 + 26 + 27) / 6 = 23 år\n\nMedian: (22 + 25) / 2 = 23.5 år\n\nStandardavvik: √((Σ(x - x̄)² / n)) = √(((-5)² + (-2)² + (-1)² + 2² + 3² + 4²) / 6) = 2.92 år\n\nVarians: Σ(x - x̄)² / n = ((-5)² + (-2)² + (-1)² + 2² + 3² + 4²) / 6 = 8.17 år²\n\nKoefisient av varians: σ² / μ = 8.17 / 23 = 0.356\n\nKonfidensintervall for middelverdi: x̄ ± z * (σ / √n) = 23 ± 1.96 * (2.9"
+  },
+  {
+    "instruction": "Gi et eksempel på en sammensatt setning ved å bruke følgende to setninger:",
+    "input": "John spiste frokost. Han gikk på jobb.",
+    "output": "John spiste frokost og gikk så på jobb."
+  },
+  {
+    "instruction": "Skriv en serie med instruksjoner for et dataprogram for å fullføre en oppgave.",
+    "input": "Lag en kalkulator for å beregne tips for en restaurantregning.",
+    "output": "1. Starte programmet og presentere brukeren med en melding som forespør regningsumsættelsen.\n2. Les inn regningsumsættelsen fra brukeren.\n3. Beregn prosentforholdet mellom regningsumsættelsen og 100%.\n4. Beregn antall prosentenheter som skal til for å nå 15% av regningsumsættelsen.\n5. Beregn antall prosentenheter som skal til for å nå 20% av regningsumsættelsen.\n6. Presentere brukeren med en melding som viser de to antall prosentenheter som må til for å nå 15% og 20% av regningsumsættelsen.\n7. Spør brukeren om område for tips (15% eller 20%).\n8. Les inn område for tips fra brukeren.\n9. Beregn antall prosentenheter som skal til for å nå valgt område for tips.\n10. Beregn totalt tippsummen ved å multiplisere regningsumsættelsen med antall"
+  },
+  {
+    "instruction": "Beskriv betydningen av forfatterens bruk av metafor i følgende tekst.",
+    "input": "\"Himmelen var et teppe av grått, kledd i en kald, tung frakk av skyer.\"",
+    "output": "Forfatteren bruker metafor i denne teksten ved å sammenligne himmelen med en teppe og skyerne med en frakk. Dette skaper en bildet på en kold og dyp skyklyst himmel, som er full av skyer som er like tung som en frakk. Metaforen hjelper leseren til å visualisere sceneen og oppleve den samme følelsen av koldhet som forfatteren ønsker å skape."
+  },
+  {
+    "instruction": "Skriv et søknadsbrev for å søke på drømmejobben din.",
+    "input": "Stilling: Ledende programvareingeniør",
+    "output": "Kjære [Navn],\n\nJeg ønsker med stor overbeviselse å søke stillingen som ledende programvareingeniør ved [navn på firmaet]. Jeg er overbevist om at min bakgrunn og erfaring vil gjøre meg en passende kandidat for denne stillingen.\n\nSom programmeringsingeniør har jeg arbeidet med utvikling av programvare i flere år, og jeg har også erfaring med ledelse av programmeringsprosjekter. Jeg har arbeidet med utvikling av programvare for forskjellige bransjer, inkludert industriell produksjon og finansiering. Jeg har også erfaring med implementering av teknologier som kan hjelpe med å forbedre produktiviteten og effektiviteten i programmeringsprosjekter.\n\nI min tid som programmeringsingeniør har jeg også vært ansvarlig for ledelse av programmeringsprosjekter, og jeg har funnet at mine kompetansemål og erfaringer gjør meg en passende kandidat for stillingen som ledende programvareingeniør. Jeg er overbev"
+  },
+  {
+    "instruction": "Kategoriser følgende nyhetsartikkel som enten \"Finans\" eller \"Sport\":",
+    "input": "Chicago Bears har fått en ny hovedtrener denne sesongen.",
+    "output": "Sport"
+  },
+  {
+    "instruction": "Gitt en URL, forklar innholdet på nettsiden i en setning.",
+    "input": "https://www.bbc.com/news/uk-politics-51010449",
+    "output": "Nettsiden viser nyheter og opplysninger om politikk i Storbritannia."
+  },
+  {
+    "instruction": "Rediger følgende tekst for å rette eventuelle grammatikk- eller stavefeil.",
+    "input": "Vi kan overvinne vanskeligheter med utholdenhet.",
+    "output": "Vi kan overvinne vanskeligheter med utholdenhet."
+  },
+  {
+    "instruction": "Konverter følgende tall til heksadesimal format.",
+    "input": "3048",
+    "output": "1E20"
+  },
+  {
+    "instruction": "Finn det tredje ordet i setningen og gjør det til tittelen på en bok.",
+    "input": "The lively red dog is chasing a cat",
+    "output": "\"Chasing the Cat\""
+  },
+  {
+    "instruction": "Beskriv løsningen i detalj.",
+    "input": "Vi etablerte et system for automatisk generering av data for vår maskinlæringsmodell.",
+    "output": "Systemet fungerer som følger:\n\n1. Datainnsamling: Vi samler data fra ulike kilder, som kan inkludere sensor-data fra maskiner, logg-filer, og andre relevante kildekomponenter.\n\n2. Datapreparasjon: Vi preparerer dataene ved å utføre en rekke forvaltningsoppgaver, som inkluderer rensevering, normalisering, og skaleringsoperasjoner.\n\n3. Modellering: Vi brukes maskinlæringsalgoritmer til å lage en modell som kan analysere dataene og gjette frem mulige utfall.\n\n4. Modellutvikling: Vi tester og utvikler modellen ved å justere hyperparametre og evaluere modellens prestatier ved hjelp av metoder som korsvalidasjon.\n\n5. Automatisk generering: Når modellen er utviklet og testet, genererer vi automatisk data for modellen ved å bruke en kombinasjon av datainnsamling og datapreparasjon.\n\n6. Modellvurdering: Vi vurderer modellens prestatier ved"
+  },
+  {
+    "instruction": "Beregn kostnaden for en forsyning av en vare i 6 måneder",
+    "input": "Varen koster $45 og mengden er 6.",
+    "output": "Kostnaden for en forsyning av en vare i 6 måneder kan beregnes ved å multiplisere varen med mengden. \n\nKostnad = Varen x Mengden \nKostnad = $45 x 6 \nKostnad = $270 \n\nSå kostnaden for en forsyning av en vare i 6 måneder vil være $270."
+  },
+  {
+    "instruction": "Generer en kreativ tittel som fanger hovedideen i følgende tekst.",
+    "input": "Helter kommer i alle former og fasonger, men de har alle noe til felles: indre styrke og mot.",
+    "output": "\"Styrken og motet i alle former og fasonger\""
+  },
+  {
+    "instruction": "Delta i en dialog fra perspektivet til en kundeservicerepresentant.",
+    "input": "Kunde: \"Hvorfor kan jeg ikke få tilgang til kontoen min?\"",
+    "output": "Delta I: \"Takk for at du kontaktet oss. Kan du vennligst bekrefte at du har valgt riktig konto og at du er den eneste som har tilgang til kontoen din? Hvis dette er tilfelle, kan vi hjelpe deg med å resette passordet ditt eller gi deg tilgang til kontoen din.\""
+  },
+  {
+    "instruction": "Gitt noe markedsføringsinnhold, design en logo som fanger selskapets kjerneverdier",
+    "input": "Vi er et selskap som er lidenskapelig opptatt av å tilby innovative løsninger for å løse kundeproblemer.",
+    "output": "Logo: \n\nVi foreslår en logo som viser en kombinasjon av teknologi og naturen. En blå og grønn logo med en symbolisk tegning av en kjerke eller kirkekirke, som representerer kjernekulturen. Det kan være en moderne versjon av en kirkekirke, som viser at vi er lidenskapelige opptatt av å tilby innovativ teknologi som løser kundeproblemer. Logoet kan være en kombinasjon av blå og grønn, som representerer teknologi og naturen. Vi foreslår også at logoet skal være modern og moderne, men fortsatt vise kjernekulturen."
+  },
+  {
+    "instruction": "Gitt en beskrivelse av noen data, klassifiser dataene som enten kvalitative eller kvantitative.",
+    "input": "Høyde på en person",
+    "output": "Kvantitativ data."
+  },
+  {
+    "instruction": "Analyser versene og gi to vanlige temaer.",
+    "input": "Vers 1: Farvel, min kjærlighet\nVers 2: Du har vært det beste i mitt liv",
+    "output": "Tema 1: Avslutning og forsvinnelse\nTema 2: Kjærlighet og takknemlighet"
+  },
+  {
+    "instruction": "Gitt en liste over studenter og deres karakterer, beregn gjennomsnittskarakteren for klassen.",
+    "input": "[{name: \"John\", grade: 85}, {name: \"Jill\", grade: 75}, {name: \"Bob\", grade: 95}, {name: \"Sally\", grade: 80}]",
+    "output": "Liste over studenter og deres karakterer:\n- John: 85\n- Jill: 75\n- Bob: 95\n- Sally: 80\n\nGjennomsnittskarakteren for klassen:\n(85 + 75 + 95 + 80) / 4 = 83.75"
+  },
+  {
+    "instruction": "Søk etter eksempler på regelmessige og uregelmessige verb i den gitte setningen.",
+    "input": "She jumps around the room.",
+    "output": "Regelmessig verb: jumps\nUregelmessig verb: around"
+  },
+  {
+    "instruction": "Konverter følgende blanda tall til en uekte brøk",
+    "input": "7 1/8",
+    "output": "7 1/8 = (7 x 8) + 1 = 56 + 1 = 57/8"
+  },
+  {
+    "instruction": "Skriv to forskjellige fem-ords setninger som integrerer begge gitte ord",
+    "input": "Moon, Sun",
+    "output": "1. The sun and moon are two celestial bodies that have fascinated humans for centuries.\n2. The sun provides light during the day while the moon illuminates the night sky.\n3. The moon's phases change throughout the month, from new to full and back again.\n4. The sun's rays can be harmful if not protected against, while the moon's glow is soothing to the eyes.\n5. The sun and moon have been used as symbols in various cultures, representing power and mystery respectively."
+  },
+  {
+    "instruction": "Legg til 100 på alle tallene i følgende setning.\nJohn spiste 7 pølser og drakk 10 øl",
+    "input": "John spiste 7 pølser og drakk 10 øl",
+    "output": "John spiste 107 pølser og drakk 110 øl"
+  },
+  {
+    "instruction": "Gi en hypotese om hva som kan skje videre i følgende scenario.",
+    "input": "Gutten lekte i parken da han så et merkelig dyr.",
+    "output": "Hypotesen min er at gutten kan bli spesielt interessert av dyr og ønske å lære mer om dem. Han kan også ønske å fortsette å leke med dyr i fremtiden og eventuelt blant de merkeligste dyr som han ser."
+  },
+  {
+    "instruction": "Velg det beste svaret for dette flervalgsspørsmålet",
+    "input": "Hva er valutaen til USA?\nA - Yen\nB - Rubel\nC - Dollar\nD - Euro",
+    "output": "Det beste svaret for dette flervalgsspørsmålet er C - Dollar."
+  },
+  {
+    "instruction": "Oppsummer denne teksten på fire eller færre setninger.",
+    "input": "Design thinking er en menneskesentrert tilnærming til innovasjon som trekker fra designerens verktøykasse for å integrere behovene til mennesker, mulighetene til teknologi og kravene til suksess.",
+    "output": "Design thinking is a human-centered approach to innovation that draws on the tools of designers to integrate people's needs, technology opportunities and success criteria."
+  },
+  {
+    "instruction": "Analyser følgende datasett og gi en kort beskrivelse av resultatene.",
+    "input": "En undersøkelse ble gjennomført der 100 personer ble spurt om de foretrekker katter eller hunder. Resultater:\nKatter: 70\nHunder: 30",
+    "output": "Resultatene fra undersøkelsen viser at 70 av de 100 spørte personer foretrekker katter, mens 30 foretrekker hunder. Dette gir en proporsjon på 70% katter og 30% hunder."
+  },
+  {
+    "instruction": "Generer en serie med spørsmål for å fremme kritisk tenkning om det gitte emnet.",
+    "input": "Emne: Klimaendringer",
+    "output": "1. Hva er klimaendringer og hvordan påvirker de menneskelig liv?\n2. Hva er hovedårsaken til klimaendringer og hvilke faktorer bidrar til disse endringene?\n3. Hva er konsekvensene av klimaendringer og hvordan kan de påvirke miljøet og menneskets liv?\n4. Hva er mulige løsninger for å bekjempe klimaendringer og hvilke effekter kan disse løsningene ha?\n5. Hva er rolle av individuelle handlinger i kampen mot klimaendringer og hvordan kan vi bidra til å minsking klimaendringer?\n6. Hva er hovedmål og målsettinger for internasjonale klimaforbund som Paris-konferansen og hvordan kan disse målene nås?\n7. Hva er hoveduavklaringene i kampen mot klimaendringer og hvordan kan vi bidra til å løse disse uavklaringene?\n8. Hva er hovedkonflikter og konfli"
+  },
+  {
+    "instruction": "Finn gjennomsnittet av en liste med tall.",
+    "input": "1, 2, 4, 5, 10",
+    "output": "Finn gjennomsnittet av en liste med tall kan gjøres ved å summere alle tallene og dele summen med antall tall i listen. \n\nFor eksempel, hvis vi har listen med tall: 1, 2, 4, 5, 10, så er gjennomsnittet:\n\n(1 + 2 + 4 + 5 + 10) / 5 = 32 / 5 = 6.4\n\nSå gjennomsnittet av listen med tall er 6.4."
+  },
+  {
+    "instruction": "Sammenlign og kontraster funksjonene til produkt A og B.",
+    "input": "Produkt A: En widget med en levetid på 10 år\nProdukt B: En gadget med en levetid på 20 år",
+    "output": "Produkt A og Produkt B er begge produkter som har forskjellige karakteristikk. \n\nEn av de mest viktige forskjellene mellom produktene er levetiden. Produkt A har en levetid på 10 år, mens produkt B har en levetid på 20 år. Dette betyr at produkt B kan brukes lenger enn produkt A, noe som kan gjøre det mer attraktivt for kunder som ønsker en langvarig produkt.\n\nEn annen forskjell mellom produktene er funksjonene de tilbyr. Produkt A er en widget, noe som betyr at den kan brukes til å utføre enkelte oppgaver eller funksjoner. Produkt B er en gadget, noe som betyr at den kan brukes til å utføre flere funksjoner og oppgaver samtidig.\n\nSammenlignet med produkt A, kan produkt B brukes til å utføre flere funksjoner og oppgaver samtidig, noe som gjør det mer flexibel og tilpasset for kunder som trenger en bredere funksjonell mulighet. \n\nKontrastert med produkt A"
+  },
+  {
+    "instruction": "Lag en liste over 5 handlingsrettede trinn for å oppnå et mål.",
+    "input": "Fullføre høyskoleutdanningen",
+    "output": "1. Finn ut hvilken høyskole du ønsker å søke på og søk inn.\n2. Planlegg og organisere din studieplan basert på høyskoleskriften.\n3. Oppfylle alle kravene for innskudd og finansiering.\n4. Ta de nødvendige kursene og eksamenene for å oppfylle kravene for graden.\n5. Få graden og søk jobb eller videreutdanningsprogrammer."
+  },
+  {
+    "instruction": "Beregn gjennomsnittet og standardavviket for denne tallrekken.",
+    "input": "2, 3, 7, 5",
+    "output": "Gjennomsnittet er (2+3+7+5)/4 = 4\n\nStandardavviket er √((1/4)((2-4)²+(3-4)²+(7-4)²+(5-4)²)) = √(10/4) ≈ 1.58"
+  },
+  {
+    "instruction": "Plasser et komma på riktig sted i setningen.",
+    "input": "The photographs were taken by my brother a professional photographer.",
+    "output": "The photographs were taken by my brother, who is a professional photographer."
+  },
+  {
+    "instruction": "Oppdater tidslinjen med riktige datoer for å demonstrere prosjektfullføringen.",
+    "input": "[Prosjekt startdato] -\n[Prosjekt sluttdato] ------------",
+    "output": "-"
+  },
+  {
+    "instruction": "Design en reklameplakat for en mobilspill.",
+    "input": "Mobilspill: Galactic Wars",
+    "output": "Here is a design concept for a mobile game called \"Galactic Wars\":\n\nTitle: Galactic Wars\n\nTagline: \"Fight your way through the galaxy\"\n\nColor scheme: The color scheme of the plakat will be a mix of blue and green, with accents of red and yellow to represent the different types of ships and weapons in the game.\n\nLogo: The logo of the game will feature a stylized image of a spaceship with a starburst effect around it, representing the idea of exploring the galaxy.\n\nBackground: The background of the plakat will be a dark blue or black, with stars and planets scattered throughout the image. This will give the impression of being in space.\n\nText: The text on the plakat will be bold and easy to read, with the title of the game in large letters at the top of the plakat. Below the title, there will be a short description of the game, highlighting its key features such as the different types of ships, weapons, and enemies that players can encounter.\n\nCall-to-action: At the bottom of the plakat, there will be a call-to-action encouraging people to download the game from the app store or Google Play. The text will be in a contrasting color to stand out against the background"
+  },
+  {
+    "instruction": "Finn likheter mellom de to kunstverkene som er gitt.",
+    "input": "The Birth of Venus av Botticelli og Starry Night av Van Gogh.",
+    "output": "There are several similarities between The Birth of Venus by Botticelli and Starry Night by Van Gogh:\n\n1. Both paintings feature a woman as the central figure.\n2. The women in both paintings are nude or semi-nude.\n3. Both paintings have a dreamlike quality to them, with the figures appearing almost ethereal.\n4. The use of color is important in both paintings, with warm tones dominating the composition.\n5. Both paintings were created during the late 19th century, during a time of great artistic experimentation and innovation.\n6. Both paintings are considered masterpieces of their respective movements (Renaissance for Botticelli and Post-Impressionism for Van Gogh).\n7. Both paintings have been widely reproduced and are recognizable to many people around the world."
+  },
+  {
+    "instruction": "Finn hovedkonseptet uttrykt i følgende setning.",
+    "input": "Han oppførte seg på en måte som gikk imot alle sosiale normer.",
+    "output": "Finn var en unik og uvanlig person som ikke følget de vanlige sosialer reglene og standardene. Han var en selvstendig og frigjort individ som ikke var bekymret for å være lik andre eller følge tradisjonell konvensjonell oppførsel. Han var en individ med egen synlighet og perspektiv som ikke var begrunnede av sosialt acceptansettelse."
+  },
+  {
+    "instruction": "Du har fått en kodebit og må finne en feil i den.",
+    "input": "mystring = \"Hello World\" \nmystring.strip(\"H\")",
+    "output": "Feilen i koden er at metoden `strip()` ikke tar en parameter som argument for hvilke tegn som skal fjernes fra strengen. I stedet kan man bruke metoden `replace()` eller `translate()` for å fjernes spesifikke tegn fra strengen. \n\nFor eksempel kan koden oppdateres til:\n\n```python\nmystring = \"Hello World\"\nmystring = mystring.replace(\"H\", \"\")\nprint(mystring)\n```\n\nDette vil skrive ut strengen \"ello World\"."
+  },
+  {
+    "instruction": "Opprett en signaturlinje for følgende e-post.",
+    "input": "Hei,\n\nJeg heter John Smith og jeg er en programvareutvikler.",
+    "output": "Beste hilsener,\nJohn Smith"
+  },
+  {
+    "instruction": "Skriv ordene inn i en ligning.",
+    "input": "fem pluss fem",
+    "output": "= ti"
+  },
+  {
+    "instruction": "Ta en setning og utvid konteksten for å komplisere situasjonen.",
+    "input": "Hun så en hvit kanin.",
+    "output": "Hun så en hvit kanin hoppe over en stein på veien. Hun sto og så på kaninen, men kaninen fortsatte å hoppe videre. Hun følte litt utrygg, da hun ikke var sikker på om kaniner var farlige eller ikke. Hun vurderte å gå rundt kaninen, men hun var ikke sikker på om det var sikker å gjøre det. Hun ønsket at hun hadde sett mer på kaniner før hun kom til denne stedet."
+  },
+  {
+    "instruction": "Skriv et kort avsnitt som introduserer et nytt produkt.",
+    "input": "Ny Super App",
+    "output": "Introduksjon:\n\nVi er stolt over å presentere vårt nye produkt: Super App! Super App er en innovativ og unik app som kan hjelpe deg med å organisere ditt liv på en helt ny måte. \n\nSuper App er en app som kombinerer flere funksjoner i én app. Det inneholder alt fra kalender, notater, oppgaver, og mer. Men det som gjør Super App spesielt er at den kan tilpasse seg ditt individuelle behov. \n\nMed Super App kan du legge til eventuelle oppgaver eller notater, og de vil automatisk bli lagret i din kalender. Du kan også sette opp ukenes planer og oppgaver, og Super App vil hjelpe deg med å håndtere disse oppgavene. \n\nSuper App er en app som er designet for å hjelpe deg med å organisere ditt liv på en effektiv måte. Vi tror at du vil like det, og vi er så stolt over å presentere dette fantastiske produktet våre."
+  },
+  {
+    "instruction": "Gitt følgende setning, generer en ny setning som beholder dens opprinnelige betydning.",
+    "input": "The plane was delayed by the storm.",
+    "output": "The storm caused the plane to be delayed."
+  },
+  {
+    "instruction": "Kategoriser det gitte elementet i grunnleggende kategorier",
+    "input": "Appelsin",
+    "output": "- Frukt\n- Orm\n- Rød\n- Sosialt (i forhold til andre frukter)\n- Smaklig"
+  },
+  {
+    "instruction": "Beskriv hvordan karakteren føler seg.",
+    "input": "Han gikk i regnet med en rynke i ansiktet.",
+    "output": "Karakteren følte seg frustrert og urolig. Han var veldig forvirret av situasjonen og ikke sikker på hva å gjøre neste. Han følte en smerte i hovedet som ble sterkere med hvert minutt han gikk i regnet. Han ønsket bare å komme hjem og få en warm drikke, men det var ikke mulig nå. Han måtte fortsette å gå i regnet og håpe at det ville bli mindre snart."
+  },
+  {
+    "instruction": "Du får oppgitt følgende påstand. Du må identifisere den logiske feilen i påstanden. Skriv ut navnet på den logiske feilen.",
+    "input": "\"Regjeringen er en inkompetent organisasjon. Den kan ikke engang håndtere de enkleste oppgavene. Så den kan definitivt ikke håndtere en pandemi som koronaviruset.\"",
+    "output": "Generalisering"
+  },
+  {
+    "instruction": "Finn den inverse av følgende likning",
+    "input": "f(x)= 3x+6",
+    "output": "For å finne inversen av en funksjon, må vi først bytte x og y i funksjonen. Så vi får:\n\nx = 3y + 6\n\nNeste steg er å løse for y. Vi kan gjøre dette ved å subtrahere 6 fra begge sider og deler med 3 på begge sider:\n\nx - 6 = 3y\n\n(x - 6) / 3 = y\n\nSå inversen av funksjonen f(x) = 3x + 6 er g(x) = (x - 6) / 3."
+  },
+  {
+    "instruction": "Finn det minste elementet i arrayen.",
+    "input": "Array = {2, 4, 6, 8, 10}",
+    "output": "Det minste elementet i arrayen er 2."
+  },
+  {
+    "instruction": "Utvikle en klassifiseringsmodell som klassifiserer den gitte teksten i henhold til dens emne.",
+    "input": "Dette er historien om en ung jente og hennes familie som bor på landet.",
+    "output": "Emne: Landbruk og familie."
+  },
+  {
+    "instruction": "Gitt et Excel-ark, transponer kolonnene og radene for å lage et nytt ark.",
+    "input": "[Excel-ark]",
+    "output": "Here is an example of how to transpose columns and rows in Excel:\n\n1. Open the Excel file that you want to transpose.\n2. Select the range of cells that you want to transpose. For example, if you want to transpose the first two columns into the first two rows, select the cells A1:B5.\n3. Click on the \"Home\" tab in the ribbon at the top of the screen.\n4. In the \"Editing\" group, click on the \"Transpose\" button (it looks like a square with a diagonal line through it).\n5. The selected cells will now be transposed, with the columns becoming rows and vice versa. The new range of cells will be automatically adjusted to fit the transposed data.\n\nNote: If you want to transpose more than one range of cells, you can hold down the Ctrl key while selecting each range before clicking the \"Transpose\" button."
+  },
+  {
+    "instruction": "Kategoriser følgende vanlige objekter i to kategorier: naturlige og menneskeskapte.",
+    "input": "fjell, satellitt, innsjø",
+    "output": "Naturlige: fjell, innsjø\n\nMenneskeskapte: satellitt"
+  },
+  {
+    "instruction": "Du har fått en søkeforespørsel, finn de 5 mest relevante nettsidene til søkeforespørselen og skriv ut URL-ene deres.",
+    "input": "Åpen kildekode programvare",
+    "output": "I am not able to perform web searches or access the internet. However, I can provide you with some tips on how to find relevant websites for your search query:\n\n1. Use a search engine like google or bing and enter your search query in the search bar.\n2. Look at the top results and click on the ones that seem most relevant to your search query.\n3. Read through the content of the website and make sure it is relevant to your search query.\n4. Check the url of the website to ensure it is relevant to your search query.\n5. Repeat steps 2-4 until you have found the top 5 most relevant websites for your search query."
+  },
+  {
+    "instruction": "Gitt følgende setning, tenk på et relevant ord fra din erfaring slik at følgende setning kan få mer dybde.",
+    "input": "Han var en ivrig _________ .",
+    "output": "Han var en ivrig skater."
+  },
+  {
+    "instruction": "Slå sammen disse to setningene uten å endre betydningen",
+    "input": "Skogen er stille. Det er ingen vind.",
+    "output": "Det er ingen vind i skogen og den er stille."
+  },
+  {
+    "instruction": "Les setningen og identifiser feil i tegnsetting og grammatikk, om det er noen.",
+    "input": "This is true; however much more can be said",
+    "output": "About the importance of proper punctuation and grammar in written communication."
+  },
+  {
+    "instruction": "Anta at du baker en kake med følgende ingredienser. Beregn steketiden.",
+    "input": "1 kopp mel, 1 teskje bakepulver, 1/2 kopp sukker, 2 egg, 1/4 kopp smør",
+    "output": "1 kopp mel, 1 teskje bakepulver, 1/2 kopp sukker, 2 egg, 1/4 kopp smør\n\nSteketid: 15-20 minutter ved 180°C (356°F)"
+  },
+  {
+    "instruction": "Dra fra en hovedtema fra den gitte bokanmeldelsen",
+    "input": "Boken 'Et dukkehjem' er en opplysende lesning som gir verdifulle innsikter i likestilling, ekteskap og andre sosiale konvensjoner.",
+    "output": "Hovedtemat for boken 'Et dukkehjem' er likestilling og sosial konvensjon."
+  },
+  {
+    "instruction": "Gitt en liste med tall, finn den største felles faktoren til listen.",
+    "input": "288, 320",
+    "output": "16"
+  },
+  {
+    "instruction": "Rediger denne setningen for å gjøre den mer konsis: The movie is long and it feels like it is going on forever.",
+    "input": "The movie is long and feels like it is never ending.",
+    "output": "The movie's length makes it feel as though it will never end."
+  },
+  {
+    "instruction": "Lag en liste over de gitte 5 tallene i synkende rekkefølge.",
+    "input": "5, 9, 4, 6, 7",
+    "output": "7, 6, 5, 4, 9"
+  },
+  {
+    "instruction": "Skriv om følgende setning på en annen måte, men behold samme betydning.",
+    "input": "Han hadde veldig få venner.",
+    "output": "Han hadde en liten gruppe venner."
+  },
+  {
+    "instruction": "Endre dokumentet slik at hver setning starter med et verb.",
+    "input": "John spiste eplet. Han var veldig sulten. Han fullførte eplet raskt.",
+    "output": "Spiste John eplet raskt da han var veldig sulten."
+  },
+  {
+    "instruction": "Gi en oversikt over hovedpunktene i en webinar diskusjon om det gitte emnet.",
+    "input": "Networking Basics",
+    "output": "1. Introduction to Networking: The webinar started with an introduction to networking basics and its importance in today's world.\n\n2. Types of Networks: The presenter explained the different types of networks such as LAN, WAN, MAN, and WLAN.\n\n3. Network Topologies: The webinar covered network topologies such as bus, ring, star, mesh, and hybrid.\n\n4. Network Devices: The presenter discussed various network devices such as hubs, switches, routers, and firewalls.\n\n5. Network Protocols: The webinar covered network protocols such as TCP/IP, HTTP, FTP, SMTP, and DNS.\n\n6. Network Security: The presenter talked about network security measures such as encryption, authentication, and access control.\n\n7. Network Troubleshooting: The webinar covered basic troubleshooting techniques for common network issues such as connectivity problems, slow performance, and network downtime.\n\n8. Conclusion: The webinar concluded with a summary of the key points covered and their significance in understanding networking basics."
+  },
+  {
+    "instruction": "Omskriv setningen for å uttrykke den samme ideen med forskjellige ord og riktig grammatikk.",
+    "input": "The little boy was very thrilled.",
+    "output": "The young lad was extremely excited."
+  },
+  {
+    "instruction": "Nedenfor er en tekst, rett opp grammatikkfeilene.",
+    "input": "Globle oppvarming plager oss.",
+    "output": "Globle oppvarming plager oss."
+  },
+  {
+    "instruction": "Velg en gjenstand fra hjemmet ditt og beskriv den med tre adjektiver.",
+    "input": "En tekopp",
+    "output": "En stor, hvid og smuk tekopp."
+  },
+  {
+    "instruction": "Velg den setningen som best forklarer det gitte begrepet.",
+    "input": "Crowdsourcing",
+    "output": "Det gitte begrepet \"crowdsourcing\" refererer til en prosess der en organisasjon eller en person forespør hjelp og input fra en stor gruppe mennesker, vanligvis gjennom internett."
+  },
+  {
+    "instruction": "Rediger denne setningen for å gjøre den mer konsis: \n\nThe employee that was assigned to the project had excessive difficulty understanding the problem.",
+    "input": "The employee assigned to the project had difficulty understanding the problem.",
+    "output": "The employee assigned to the project struggled with comprehending the issue at hand."
+  },
+  {
+    "instruction": "Finn antonymene for hvert av følgende ord.",
+    "input": "Glamorous",
+    "output": "Dull"
+  },
+  {
+    "instruction": "Lag fem spørsmål fra følgende uttalelse:",
+    "input": "Økende avskoging har en negativ innvirkning på miljøet",
+    "output": "1. Hva er avskoging?\n2. Hvordan kan avskoging ha en negativ innvirkning på miljøet?\n3. Er det noen konsekvenser av avskoging for miljøet?\n4. Kan vi gjøre noe for å hindre avskoging og beskytte miljøet?"
+  },
+  {
+    "instruction": "Basert på en gitt liste med data, beregn gjennomsnittet en kunde bruker i en butikk",
+    "input": "$12, $14, $27, $23",
+    "output": "Gjennomsnittet kundebruk i butikken er:\n\n($12 + $14 + $27 + $23) / 4 = $18.50"
+  },
+  {
+    "instruction": "Utvid den gitte setningen med livlige beskrivelser.",
+    "input": "Hagen var vakker.",
+    "output": "Hagen var ikke bare vakker, men også en solskinnlig skogelf, som strakte seg opp mot himmelen i en elegant høyde. Hennes hår var som gyllen blå fjell, som flakket i vinden som en vaneblomst. Hennes øyne var som smeltet gull, og hver gang hun så deg opp, fikk du føle deg som en av de mest lykkelige menneskene på jorden. Hun hadde en stemme som var som musikken, som kunne gjøre deg til å føle deg som en del av noe storere enn deg selv. Hagen var en skogelf som var full av liv og lys, og hun var en av de vakreste tingene vi kan se."
+  },
+  {
+    "instruction": "Konstruer et flervalgsspørsmål med fire alternativer.",
+    "input": "Hva er det høyeste fjellet i verden?",
+    "output": "A) Everest\nB) K2\nC) Kangchenjunga\nD) Lhotse\n\nSvar: A) Everest"
+  },
+  {
+    "instruction": "Konverter den gitte HTML-koden til gyldig CSS.",
+    "input": "<ul style=\"list-style-type:circle;\">\n   <li>Milk</li>\n   <li>Cheese</li>\n   <li>Yogurt</li>\n</ul>",
+    "output": "<style>\n  ul {\n    list-style-type: circle;\n  }\n  \n  li {\n    margin-bottom: 10px;\n  }\n</style>\n\n<ul>\n   <li>Milk</li>\n   <li>Cheese</li>\n   <li>Yogurt</li>\n</ul>"
+  }
+]
