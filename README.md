@@ -1,4 +1,5 @@
 # Bachelor Project Group 124
+Members: 8, 317, 441 and 638
 
 This repository contains the code, datasets, and outputs for a bachelor thesis project on prompt injection attacks and preprocessing defenses in large language models.
 
